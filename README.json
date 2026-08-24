@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:31:03Z",
+                "last_commit": "2026-08-24T10:36:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42980
+                "stars": 42985
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 410989014,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:57:17Z",
+                "last_commit": "2026-08-24T04:26:07Z",
                 "owner": "exaloop",
                 "repo": "codon",
                 "stars": 16832
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-20T04:03:23Z",
                 "owner": "vosen",
                 "repo": "ZLUDA",
-                "stars": 14772
+                "stars": 14774
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 206791328,
                 "language": "C++",
-                "last_commit": "2026-08-22T07:13:55Z",
+                "last_commit": "2026-08-24T04:38:30Z",
                 "owner": "google",
                 "repo": "highway",
-                "stars": 5765
+                "stars": 5775
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-21T15:14:41Z",
                 "owner": "ROCm",
                 "repo": "hip",
-                "stars": 4388
+                "stars": 4389
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 1439738,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:46:02Z",
+                "last_commit": "2026-08-24T13:25:49Z",
                 "owner": "actor-framework",
                 "repo": "actor-framework",
                 "stars": 3431
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 1218231004,
                 "language": "Rust",
-                "last_commit": "2026-08-23T07:17:31Z",
+                "last_commit": "2026-08-24T06:31:11Z",
                 "owner": "NVlabs",
                 "repo": "cuda-oxide",
                 "stars": 3092
@@ -167,7 +167,7 @@
                 "last_commit": "2026-07-22T22:26:23Z",
                 "owner": "ispc",
                 "repo": "ispc",
-                "stars": 2941
+                "stars": 2942
               }
             },
             {
@@ -179,10 +179,10 @@
                 "archived": false,
                 "id": 4455628,
                 "language": "C++",
-                "last_commit": "2026-08-23T01:40:10Z",
+                "last_commit": "2026-08-24T12:58:41Z",
                 "owner": "TheHPXProject",
                 "repo": "hpx",
-                "stars": 2885
+                "stars": 2886
               }
             },
             {
@@ -224,7 +224,7 @@
                 "archived": false,
                 "id": 25379390,
                 "language": "C",
-                "last_commit": "2026-08-23T13:16:38Z",
+                "last_commit": "2026-08-24T07:39:19Z",
                 "owner": "openucx",
                 "repo": "ucx",
                 "stars": 1694
@@ -329,10 +329,10 @@
                 "archived": false,
                 "id": 349152473,
                 "language": "Rust",
-                "last_commit": "2026-08-22T23:28:10Z",
+                "last_commit": "2026-08-23T23:30:49Z",
                 "owner": "It4innovations",
                 "repo": "hyperqueue",
-                "stars": 552
+                "stars": 553
               }
             },
             {
@@ -344,7 +344,7 @@
                 "archived": false,
                 "id": 281372599,
                 "language": "Python",
-                "last_commit": "2026-08-21T13:53:32Z",
+                "last_commit": "2026-08-24T07:22:07Z",
                 "owner": "mpi4jax",
                 "repo": "mpi4jax",
                 "stars": 543
@@ -359,7 +359,7 @@
                 "archived": false,
                 "id": 134986009,
                 "language": "Go",
-                "last_commit": "2026-08-17T18:19:36Z",
+                "last_commit": "2026-08-24T13:06:55Z",
                 "owner": "kubeflow",
                 "repo": "mpi-operator",
                 "stars": 532
@@ -658,7 +658,7 @@
                 "archived": false,
                 "id": 728178901,
                 "language": "C++",
-                "last_commit": "2026-08-22T09:49:41Z",
+                "last_commit": "2026-08-24T10:52:40Z",
                 "owner": "hpc-gridware",
                 "repo": "clusterscheduler",
                 "stars": 52
@@ -718,6 +718,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "McKernel",
+              "description": "A hybrid kernel that combines Linux and a lightweight kernel designed to provide high performance for HPC applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145059935,
+                "language": "C",
+                "last_commit": "2026-02-18T19:20:45Z",
+                "owner": "RIKEN-SysSoft",
+                "repo": "mckernel",
+                "stars": 127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HPC-specific Operating Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Grafana",
               "description": "Open-source platform for monitoring and observability, visualizing metrics.",
               "children": [],
@@ -725,10 +747,10 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:54:14Z",
+                "last_commit": "2026-08-24T14:10:03Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76364
+                "stars": 76387
               }
             },
             {
@@ -743,7 +765,7 @@
                 "last_commit": "2026-04-01T03:56:14Z",
                 "owner": "vaexio",
                 "repo": "vaex",
-                "stars": 8508
+                "stars": 8507
               }
             },
             {
@@ -935,6 +957,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "seer modern gui for gdb",
+              "description": "A graphical user interface for GDB, aiming to improve the debugging experience with modern features and visuals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402099758,
+                "language": "C++",
+                "last_commit": "2026-08-23T14:05:15Z",
+                "owner": "epasveer",
+                "repo": "seer",
+                "stars": 3431
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debugging Tools for HPC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Hyperfine",
               "description": "A command-line benchmarking tool that provides a simple and user-friendly means to compare the performance of commands, featuring statistical analysis across multiple runs.",
               "children": [],
@@ -945,7 +989,7 @@
                 "last_commit": "2026-04-30T08:23:25Z",
                 "owner": "sharkdp",
                 "repo": "hyperfine",
-                "stars": 28712
+                "stars": 28718
               }
             },
             {
@@ -975,7 +1019,7 @@
                 "last_commit": "2026-08-18T07:19:23Z",
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10365
+                "stars": 10367
               }
             },
             {
@@ -1005,7 +1049,7 @@
                 "last_commit": "2026-05-12T14:39:40Z",
                 "owner": "KDAB",
                 "repo": "hotspot",
-                "stars": 5135
+                "stars": 5137
               }
             },
             {
@@ -1287,6 +1331,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ADIOS2",
+              "description": "The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75750830,
+                "language": "C++",
+                "last_commit": "2026-08-21T18:59:58Z",
+                "owner": "ornladios",
+                "repo": "ADIOS2",
+                "stars": 326
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IO/Visualization Tools for HPC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RunMat",
+              "description": "MATLAB-syntax runtime with automatic CPU/GPU execution and fused array math kernels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1027423503,
+                "language": "Rust",
+                "last_commit": "2026-08-22T00:20:31Z",
+                "owner": "runmat-org",
+                "repo": "runmat",
+                "stars": 251
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Purpose Scientific Computing Libraries for HPC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "mimalloc memory allocator",
               "description": null,
               "children": [],
@@ -1297,7 +1385,7 @@
                 "last_commit": "2026-08-22T10:49:34Z",
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13324
+                "stars": 13326
               }
             },
             {
@@ -1312,7 +1400,7 @@
                 "last_commit": "2026-08-10T13:16:09Z",
                 "owner": "jemalloc",
                 "repo": "jemalloc",
-                "stars": 11054
+                "stars": 11059
               }
             },
             {
@@ -1324,10 +1412,10 @@
                 "archived": false,
                 "id": 204009988,
                 "language": "C++",
-                "last_commit": "2026-08-23T17:06:32Z",
+                "last_commit": "2026-08-24T10:26:41Z",
                 "owner": "google",
                 "repo": "tcmalloc",
-                "stars": 5325
+                "stars": 5327
               }
             },
             {
@@ -1360,6 +1448,56 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Apply M1/M2 AMX",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 530536922,
+                "language": "C",
+                "last_commit": "2024-12-26T15:29:28Z",
+                "owner": "corsix",
+                "repo": "amx",
+                "stars": 1260
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CPU"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Cloud HPC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739257049,
+                "language": null,
+                "last_commit": "2024-11-06T03:02:00Z",
+                "owner": "kjrstory",
+                "repo": "awesome-cloud-hpc",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud"
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Performance Ninja Optimization Course",
               "description": null,
               "children": [],
@@ -1367,7 +1505,7 @@
                 "archived": false,
                 "id": 387675964,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:58:27Z",
+                "last_commit": "2026-08-24T14:00:19Z",
                 "owner": "dendibakh",
                 "repo": "perf-ninja",
                 "stars": 3820
@@ -1515,10 +1653,10 @@
                 "archived": false,
                 "id": 612895,
                 "language": "C",
-                "last_commit": "2026-08-15T01:32:54Z",
+                "last_commit": "2026-08-24T08:54:24Z",
                 "owner": "herumi",
                 "repo": "xbyak",
-                "stars": 2268
+                "stars": 2269
               }
             },
             {
@@ -1615,6 +1753,28 @@
           "description": null,
           "node_type": "group",
           "title": "Misc. Repos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deadlock empire - practice concurrency",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50751974,
+                "language": "JavaScript",
+                "last_commit": "2025-05-09T23:08:32Z",
+                "owner": "deadlockempire",
+                "repo": "deadlockempire.github.io",
+                "stars": 1055
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games/Challenges"
         }
       ],
       "title": "Resources"
@@ -1664,7 +1824,7 @@
             "last_commit": "2024-08-06T10:36:49Z",
             "owner": "dstdev",
             "repo": "awesome-hpc",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -1717,7 +1877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:18:32.579Z",
+    "last_updated": "2026-08-24T14:10:48.427Z",
     "original_repository": "trevor-vincent/awesome-high-performance-computing",
     "original_repository_id": 342449954,
     "original_repository_sha": "103e8fcc174506d5dad3a86608a4e0f87019a028",
