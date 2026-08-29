@@ -12,12 +12,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+                "homepage": "https://www.deepspeed.ai/",
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-29T01:25:24Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:37:33Z",
+                "open_issues": 1329,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43019
+                "stars": 43019,
+                "topics": [
+                  "billion-parameters",
+                  "compression",
+                  "data-parallelism",
+                  "deep-learning",
+                  "gpu",
+                  "inference",
+                  "machine-learning",
+                  "mixture-of-experts",
+                  "model-parallelism",
+                  "pipeline-parallelism",
+                  "pytorch",
+                  "trillion-parameters",
+                  "zero"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -28,12 +47,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Productive, portable, and performant GPU programming in Python.",
+                "homepage": "https://taichi-lang.org",
                 "id": 74660642,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T19:33:09Z",
+                "open_issues": 925,
                 "owner": "taichi-dev",
                 "repo": "taichi",
-                "stars": 28345
+                "stars": 28346,
+                "topics": [
+                  "computer-graphics",
+                  "differentiable-programming",
+                  "gpu",
+                  "gpu-programming",
+                  "sparse-computation",
+                  "taichi"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -44,12 +75,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support",
+                "homepage": "https://docs.exaloop.io",
                 "id": 410989014,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:49:09Z",
+                "open_issues": 122,
                 "owner": "exaloop",
                 "repo": "codon",
-                "stars": 16836
+                "stars": 16836,
+                "topics": [
+                  "compiler",
+                  "gpu-programming",
+                  "high-performance",
+                  "llvm",
+                  "numpy",
+                  "parallel-programming",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -60,12 +104,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CUDA on non-NVIDIA GPUs",
+                "homepage": "https://vosen.github.io/ZLUDA/",
                 "id": 231958668,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T07:14:27Z",
+                "open_issues": 162,
                 "owner": "vosen",
                 "repo": "ZLUDA",
-                "stars": 14790
+                "stars": 14789,
+                "topics": [
+                  "cuda",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -76,12 +128,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+                "homepage": "http://horovod.ai",
                 "id": 99846383,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-29T17:27:00Z",
+                "open_issues": 406,
                 "owner": "horovod",
                 "repo": "horovod",
-                "stars": 14688
+                "stars": 14688,
+                "topics": [
+                  "baidu",
+                  "deep-learning",
+                  "deeplearning",
+                  "keras",
+                  "machine-learning",
+                  "machinelearning",
+                  "mpi",
+                  "mxnet",
+                  "pytorch",
+                  "ray",
+                  "spark",
+                  "tensorflow",
+                  "uber"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -92,12 +163,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A General-purpose Task-parallel Programming System in C++",
+                "homepage": "https://taskflow.github.io",
                 "id": 130068982,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T17:29:28Z",
+                "open_issues": 34,
                 "owner": "taskflow",
                 "repo": "taskflow",
-                "stars": 12133
+                "stars": 12133,
+                "topics": [
+                  "concurrent-programming",
+                  "cuda-programming",
+                  "gpu-programming",
+                  "heterogeneous-parallel-programming",
+                  "high-performance-computing",
+                  "multi-threading",
+                  "multicore-programming",
+                  "multithreading",
+                  "parallel",
+                  "parallel-computing",
+                  "parallel-programming",
+                  "taskflow",
+                  "taskparallelism",
+                  "threadpool",
+                  "work-stealing"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -108,12 +200,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+                "homepage": null,
                 "id": 206791328,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T22:29:08Z",
+                "open_issues": 66,
                 "owner": "google",
                 "repo": "highway",
-                "stars": 5782
+                "stars": 5782,
+                "topics": [
+                  "avx",
+                  "avx-512",
+                  "avx-instructions",
+                  "avx2",
+                  "avx512",
+                  "intrinsics",
+                  "neon",
+                  "simd",
+                  "simd-instructions",
+                  "simd-intrinsics",
+                  "simd-library",
+                  "simd-parallelism",
+                  "simd-programming",
+                  "sse42",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -124,12 +237,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HIP: C++ Heterogeneous-Compute Interface for Portability",
+                "homepage": "https://rocmdocs.amd.com/projects/HIP/",
                 "id": 49220157,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-25T08:22:59Z",
+                "open_issues": 44,
                 "owner": "ROCm",
                 "repo": "hip",
-                "stars": 4393
+                "stars": 4393,
+                "topics": [
+                  "cuda",
+                  "hip",
+                  "hip-kernel-language",
+                  "hip-portability",
+                  "hip-runtime",
+                  "hipify"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -140,12 +265,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Implementation of the Actor Model in C++",
+                "homepage": "http://actor-framework.org/",
                 "id": 1439738,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T19:01:17Z",
+                "open_issues": 58,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3432
+                "stars": 3432,
+                "topics": [
+                  "actor-model",
+                  "actors",
+                  "async",
+                  "caf",
+                  "pattern-matching"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -156,12 +292,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+                "homepage": "https://nvlabs.github.io/cuda-oxide/",
                 "id": 1218231004,
                 "language": "Rust",
-                "last_commit": "2026-08-28T19:02:46Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:28:37Z",
+                "open_issues": 55,
                 "owner": "NVlabs",
                 "repo": "cuda-oxide",
-                "stars": 3103
+                "stars": 3103,
+                "topics": [
+                  "async",
+                  "compiler-backend",
+                  "cuda",
+                  "gpu",
+                  "heterogeneous-computing",
+                  "high-performance-computing",
+                  "nvidia",
+                  "programming-languages",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -172,12 +323,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intel® Implicit SPMD Program Compiler",
+                "homepage": null,
                 "id": 1931356,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T22:26:29Z",
+                "open_issues": 281,
                 "owner": "ispc",
                 "repo": "ispc",
-                "stars": 2949
+                "stars": 2949,
+                "topics": [
+                  "compiler",
+                  "intel",
+                  "ispc",
+                  "programming-language",
+                  "simd",
+                  "spmd"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -188,12 +351,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The C++ Standard Library for Parallelism and Concurrency",
+                "homepage": "https://hpx.dev",
                 "id": 4455628,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-28T15:07:30Z",
+                "open_issues": 138,
                 "owner": "TheHPXProject",
                 "repo": "hpx",
-                "stars": 2885
+                "stars": 2885,
+                "topics": [
+                  "c-plus-plus",
+                  "concurrency",
+                  "cpp20",
+                  "cpp20-modules",
+                  "cross-platform",
+                  "distributed",
+                  "parallelism"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -204,12 +380,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction",
+                "homepage": "https://kokkos.org",
                 "id": 33634359,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:38:54Z",
+                "open_issues": 551,
                 "owner": "kokkos",
                 "repo": "kokkos",
-                "stars": 2649
+                "stars": 2649,
+                "topics": [
+                  "abstraction",
+                  "c-plus-plus",
+                  "high-performance-computing",
+                  "hpsf",
+                  "kokkos",
+                  "parallel-computing",
+                  "programming-model"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -220,12 +409,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation.",
+                "homepage": "http://kompute.cc/",
                 "id": 283406173,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-15T13:52:13Z",
+                "open_issues": 78,
                 "owner": "KomputeProject",
                 "repo": "kompute",
-                "stars": 2559
+                "stars": 2559,
+                "topics": [
+                  "cpp",
+                  "deep-learning",
+                  "deep-learning-gpu",
+                  "gpgpu",
+                  "gpu-computing",
+                  "machine-learning",
+                  "machine-learning-gpu",
+                  "python",
+                  "vulkan",
+                  "vulkan-compute",
+                  "vulkan-compute-example",
+                  "vulkan-compute-framework",
+                  "vulkan-compute-tutorial",
+                  "vulkan-demos",
+                  "vulkan-example",
+                  "vulkan-tutorial"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -236,12 +447,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)",
+                "homepage": "http://www.openucx.org",
                 "id": 25379390,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:28:29Z",
+                "open_issues": 872,
                 "owner": "openucx",
                 "repo": "ucx",
-                "stars": 1697
+                "stars": 1697,
+                "topics": [
+                  "aries",
+                  "c",
+                  "c-plus-plus",
+                  "cray",
+                  "drivers",
+                  "gemini",
+                  "hacktoberfest",
+                  "hpc",
+                  "infiniband",
+                  "iwarp",
+                  "mpi",
+                  "networking",
+                  "openshmem",
+                  "pgas",
+                  "rdma",
+                  "roce",
+                  "shared-memory",
+                  "shmem",
+                  "tcp-ip",
+                  "verbs"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -252,12 +489,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Concurrent Python made simple",
+                "homepage": null,
                 "id": 804241290,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-04T12:20:06Z",
+                "open_issues": 5,
                 "owner": "pyper-dev",
                 "repo": "pyper",
-                "stars": 1518
+                "stars": 1518,
+                "topics": [
+                  "asyncio",
+                  "concurrency",
+                  "data",
+                  "data-collection",
+                  "data-engineering",
+                  "data-pipelines",
+                  "data-processing",
+                  "multiprocessing",
+                  "parallel-computing",
+                  "python",
+                  "threading"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -268,12 +522,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators ",
+                "homepage": "http://raftlib.io",
                 "id": 23121722,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-02T19:32:31Z",
+                "open_issues": 32,
                 "owner": "RaftLib",
                 "repo": "RaftLib",
-                "stars": 998
+                "stars": 998,
+                "topics": [
+                  "c-plus-plus",
+                  "cmake",
+                  "dataflow",
+                  "dataflow-programming",
+                  "dataflow-structure",
+                  "dataflows",
+                  "dsl",
+                  "hpc",
+                  "ipc",
+                  "machine",
+                  "opencv",
+                  "parallel",
+                  "pthreads",
+                  "qthread-library",
+                  "qthreads",
+                  "raftlib",
+                  "runtime",
+                  "streaming",
+                  "thread",
+                  "thread-library"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -284,12 +564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NumPy and SciPy on Multi-Node Multi-GPU systems",
+                "homepage": "https://docs.nvidia.com/cupynumeric",
                 "id": 356975888,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T23:38:47Z",
+                "open_issues": 181,
                 "owner": "nv-legate",
                 "repo": "cupynumeric",
-                "stars": 984
+                "stars": 984,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -300,12 +585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Legion Parallel Programming System",
+                "homepage": "https://legion.stanford.edu",
                 "id": 6730452,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T01:15:17Z",
+                "open_issues": 310,
                 "owner": "StanfordLegion",
                 "repo": "legion",
-                "stars": 767
+                "stars": 767,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -316,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A header-only C++ library for task concurrency",
+                "homepage": null,
                 "id": 79993446,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-05-18T09:33:16Z",
+                "open_issues": 2,
                 "owner": "bloomen",
                 "repo": "transwarp",
-                "stars": 632
+                "stars": 632,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -332,12 +627,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RAJA Performance Portability Layer (C++)",
+                "homepage": null,
                 "id": 57340960,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T16:53:53Z",
+                "open_issues": 211,
                 "owner": "llnl",
                 "repo": "RAJA",
-                "stars": 596
+                "stars": 596,
+                "topics": [
+                  "blt",
+                  "c-plus-plus",
+                  "cpp",
+                  "llnl",
+                  "parallel-computing",
+                  "portability",
+                  "programming-model",
+                  "radiuss",
+                  "raja"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -348,12 +658,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User-friendly Scheduler for sub-node tasks for HPC systems",
+                "homepage": "https://it4innovations.github.io/hyperqueue",
                 "id": 349152473,
                 "language": "Rust",
-                "last_commit": "2026-08-28T06:55:46Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:12:13Z",
+                "open_issues": 56,
                 "owner": "It4innovations",
                 "repo": "hyperqueue",
-                "stars": 554
+                "stars": 554,
+                "topics": [
+                  "distributed-computing",
+                  "hpc",
+                  "rust",
+                  "task-graph"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -364,12 +684,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:",
+                "homepage": "https://mpi4jax.readthedocs.io/",
                 "id": 281372599,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:03:54Z",
+                "open_issues": 25,
                 "owner": "mpi4jax",
                 "repo": "mpi4jax",
-                "stars": 543
+                "stars": 543,
+                "topics": [
+                  "gpu",
+                  "high-performance-computing",
+                  "jax",
+                  "jit",
+                  "mpi",
+                  "parallel-computing",
+                  "xla"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -380,12 +713,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)",
+                "homepage": "https://www.kubeflow.org/docs/components/training/mpi/",
                 "id": 134986009,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T20:58:10Z",
+                "open_issues": 101,
                 "owner": "kubeflow",
                 "repo": "mpi-operator",
-                "stars": 533
+                "stars": 533,
+                "topics": [
+                  "apache-mxnet",
+                  "distributed-computing",
+                  "horovod",
+                  "kubeflow",
+                  "kubernetes",
+                  "mpi",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -396,12 +743,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use RDMA API in Rust async",
+                "homepage": null,
                 "id": 345942619,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-21T04:51:31Z",
+                "open_issues": 22,
                 "owner": "datenlord",
                 "repo": "async-rdma",
-                "stars": 444
+                "stars": 444,
+                "topics": [
+                  "async",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -412,12 +767,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstraction Library for Parallel Kernel Acceleration :llama:",
+                "homepage": "https://alpaka.readthedocs.io",
                 "id": 26217535,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-27T16:10:48Z",
+                "open_issues": 235,
                 "owner": "alpaka-group",
                 "repo": "alpaka",
-                "stars": 425
+                "stars": 425,
+                "topics": [
+                  "cpp",
+                  "cpp17",
+                  "cuda",
+                  "gpu",
+                  "header-only",
+                  "heterogeneous-parallel-programming",
+                  "hip",
+                  "hpc",
+                  "openacc",
+                  "openmp",
+                  "rocm",
+                  "tbb"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -428,12 +801,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Galois: C++ library for multi-core and multi-node parallelization",
+                "homepage": "http://iss.ices.utexas.edu/?p=projects/galois",
                 "id": 137784875,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-16T21:11:41Z",
+                "open_issues": 65,
                 "owner": "IntelligentSoftwareSystems",
                 "repo": "Galois",
-                "stars": 354
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -444,12 +822,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastFlow pattern-based parallel programming framework (formerly on sourceforge)",
+                "homepage": "http://calvados.di.unipi.it",
                 "id": 114495241,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-14T17:02:44Z",
+                "open_issues": 29,
                 "owner": "fastflow",
                 "repo": "fastflow",
-                "stars": 313
+                "stars": 313,
+                "topics": [
+                  "gpu-computing",
+                  "gpu-programming",
+                  "multicore",
+                  "parallel-algorithm",
+                  "parallel-programming",
+                  "parallelization",
+                  "patterns",
+                  "skeleton-framework"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -460,12 +852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project provides high-performance concurrency, enabling highly parallel computation.  ",
+                "homepage": null,
                 "id": 234178524,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:21:33Z",
+                "open_issues": 7,
                 "owner": "facebookincubator",
                 "repo": "dispenso",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -476,12 +873,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Concurrent CPU-GPU Programming using Task Models",
+                "homepage": null,
                 "id": 200889030,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-19T01:43:18Z",
+                "open_issues": 1,
                 "owner": "Heteroflow",
                 "repo": "Heteroflow",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "cpu-gpu-scheduling",
+                  "cuda",
+                  "gpu",
+                  "gpu-acceleration",
+                  "gpu-computing",
+                  "gpu-programming",
+                  "heterogeneous-computing",
+                  "heterogeneous-parallel-programming",
+                  "heterogeneous-systems",
+                  "multithreaded",
+                  "multithreading",
+                  "task-parallelism"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -492,12 +907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A distributed data flow and computation system that runs on transactional messaging infrastructure",
+                "homepage": null,
                 "id": 392665030,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-10-22T03:37:56Z",
+                "open_issues": 0,
                 "owner": "radiantone",
                 "repo": "pyfi",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -508,12 +928,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scalix is a data parallel compute library that automatically scales to the available compute resources.",
+                "homepage": null,
                 "id": 599827150,
                 "language": "Cuda",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-09-18T06:21:46Z",
+                "open_issues": 2,
                 "owner": "NAGAGroup",
                 "repo": "Scalix",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cuda",
+                  "hpc",
+                  "scientific-computing"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -524,12 +953,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pollux payload core files and examples",
+                "homepage": null,
                 "id": 446375048,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-13T11:40:29Z",
+                "open_issues": 0,
                 "owner": "polluxio",
                 "repo": "pollux-payload",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cloud",
+                  "message-passing",
+                  "parallel-computing",
+                  "parallel-programming"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -540,12 +979,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MOGSLib: Meta-programming-Oriented Global Scheduling Library",
+                "homepage": null,
                 "id": 91113094,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-12T19:25:22Z",
+                "open_issues": 1,
                 "owner": "ECLScheduling",
                 "repo": "MOGSLib",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -563,12 +1007,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple yet fancy CPU architecture fetching tool",
+                "homepage": null,
                 "id": 126449599,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2025-11-01T09:07:03Z",
+                "open_issues": 131,
                 "owner": "Dr-Noob",
                 "repo": "cpufetch",
-                "stars": 2139
+                "stars": 2139,
+                "topics": [
+                  "amd",
+                  "android",
+                  "arm",
+                  "cpus",
+                  "intel",
+                  "linux",
+                  "macos",
+                  "microarchitecture",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -579,12 +1038,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Performance monitoring and benchmarking suite",
+                "homepage": "https://hpc.fau.de/research/tools/likwid/",
                 "id": 35045238,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T14:16:28Z",
+                "open_issues": 92,
                 "owner": "RRZE-HPC",
                 "repo": "likwid",
-                "stars": 1936
+                "stars": 1936,
+                "topics": [
+                  "amd-gpu",
+                  "armv8",
+                  "assembly",
+                  "benchmarking",
+                  "c",
+                  "hardware-performance-counters",
+                  "hwloc",
+                  "instrumentation",
+                  "likwid",
+                  "linux",
+                  "lua",
+                  "nvidia-gpu",
+                  "performance-analysis",
+                  "performance-engineering",
+                  "pin",
+                  "power9",
+                  "profiling",
+                  "threading",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -595,12 +1079,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a set of simple programs that can be used to explore the features of a parallel platform.",
+                "homepage": "https://groups.google.com/forum/#!forum/parallel-research-kernels",
                 "id": 13330867,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-27T21:53:40Z",
+                "open_issues": 31,
                 "owner": "ParRes",
                 "repo": "Kernels",
-                "stars": 475
+                "stars": 475,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "coarray-fortran",
+                  "fortran2008",
+                  "hpc",
+                  "julia",
+                  "kokkos",
+                  "mpi",
+                  "openacc",
+                  "opencl",
+                  "openmp",
+                  "parallel",
+                  "parallel-programming",
+                  "pgas",
+                  "python3",
+                  "shmem",
+                  "sycl",
+                  "threading"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -611,12 +1119,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple yet fancy GPU architecture fetching tool",
+                "homepage": null,
                 "id": 394679051,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2025-10-26T09:52:07Z",
+                "open_issues": 34,
                 "owner": "Dr-Noob",
                 "repo": "gpufetch",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "amd",
+                  "amdgpu",
+                  "cuda",
+                  "gpu",
+                  "hsa",
+                  "igpu",
+                  "intel",
+                  "nvidia",
+                  "rocm"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -634,12 +1157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for building GPU clusters",
+                "homepage": null,
                 "id": 134776948,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T22:50:50Z",
+                "open_issues": 2,
                 "owner": "NVIDIA",
                 "repo": "deepops",
-                "stars": 1469
+                "stars": 1469,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -650,12 +1178,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A coherent Ansible roles collection to simply deploy clusters of nodes.",
+                "homepage": "https://bluebanquise.com",
                 "id": 193971997,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:22:00Z",
+                "open_issues": 38,
                 "owner": "bluebanquise",
                 "repo": "bluebanquise",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "ansible",
+                  "baremetal",
+                  "clusters",
+                  "hpc",
+                  "linux",
+                  "pxe"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -666,12 +1206,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run GPU or batch jobs directly from your dev environment",
+                "homepage": "http://velda.io",
                 "id": 1031531646,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T19:16:33Z",
+                "open_issues": 2,
                 "owner": "velda-io",
                 "repo": "velda",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "cloud-computing",
+                  "cloud-management",
+                  "job-scheduler",
+                  "ml-infrastructure",
+                  "ml-platform",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -682,12 +1234,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "like lazygit/lazydocker but for slurm",
+                "homepage": null,
                 "id": 1050235686,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-09T21:25:43Z",
+                "open_issues": 1,
                 "owner": "hill",
                 "repo": "lazyslurm",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "cli",
+                  "hpc",
+                  "lazydocker",
+                  "lazygit",
+                  "slurm",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -698,12 +1262,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A drop-in replacement of  Sun Grid Engine (SGE) or Univa Grid Engine (UGE) with modern features, stable, and ultra-fast. ",
+                "homepage": "https://www.hpc-gridware.com/",
                 "id": 728178901,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:39:23Z",
+                "open_issues": 4,
                 "owner": "hpc-gridware",
                 "repo": "clusterscheduler",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "batch-job-processor",
+                  "grid-engine",
+                  "gridware-cluster-scheduler",
+                  "hpc",
+                  "hpc-cluster",
+                  "job-scheduler",
+                  "open-cluster-scheduler",
+                  "sun-grid-engine",
+                  "task-scheduler",
+                  "univa-grid-engine"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -714,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line tool to measure process resource usage.",
+                "homepage": null,
                 "id": 99883573,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-14T01:55:42Z",
+                "open_issues": 2,
                 "owner": "JanneM",
                 "repo": "Ruse",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -730,12 +1315,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plain-English diagnoses for confusing Slurm job states — built for researchers debugging jobs and admins triaging queues.",
+                "homepage": null,
                 "id": 1315577683,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-09T03:12:53Z",
+                "open_issues": 0,
                 "owner": "ajinkyakadam",
                 "repo": "slurm-why",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "hpc",
+                  "hpc-clusters",
+                  "slurm",
+                  "slurm-cluster",
+                  "slurm-utility",
+                  "slurm-workload-manager"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -746,12 +1343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package installer with LMod integration",
+                "homepage": null,
                 "id": 1110888963,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-27T22:06:32Z",
+                "open_issues": 0,
                 "owner": "VictorEijkhout",
                 "repo": "MrPackMod",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -769,12 +1371,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "McKernel",
+                "homepage": null,
                 "id": 145059935,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-02-18T19:20:45Z",
+                "open_issues": 7,
                 "owner": "RIKEN-SysSoft",
                 "repo": "mckernel",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "hpc",
+                  "operating-system",
+                  "supercomputing"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -792,12 +1403,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+                "homepage": "https://grafana.com",
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T01:39:58Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:24:15Z",
+                "open_issues": 3317,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76465
+                "stars": 76465,
+                "topics": [
+                  "alerting",
+                  "analytics",
+                  "business-intelligence",
+                  "dashboard",
+                  "data-visualization",
+                  "elasticsearch",
+                  "go",
+                  "grafana",
+                  "hacktoberfest",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "mysql",
+                  "postgres",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -808,12 +1440,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀",
+                "homepage": "https://vaex.io",
                 "id": 24528468,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T03:56:14Z",
+                "open_issues": 552,
                 "owner": "vaexio",
                 "repo": "vaex",
-                "stars": 8508
+                "stars": 8508,
+                "topics": [
+                  "bigdata",
+                  "data-science",
+                  "dataframe",
+                  "hdf5",
+                  "machine-learning",
+                  "machinelearning",
+                  "memory-mapped-file",
+                  "pyarrow",
+                  "python",
+                  "tabular-data",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -824,12 +1473,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GPU environment and cluster management with LLM support",
+                "homepage": "https://www.genv.dev",
                 "id": 532524391,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-05-16T11:12:54Z",
+                "open_issues": 16,
                 "owner": "run-ai",
                 "repo": "genv",
-                "stars": 659
+                "stars": 659,
+                "topics": [
+                  "bash",
+                  "container-runtime",
+                  "containers",
+                  "data-science",
+                  "deep-learning",
+                  "docker",
+                  "gpu",
+                  "gpus",
+                  "jupyter-notebook",
+                  "jupyterlab-extension",
+                  "k8s",
+                  "kubernetes",
+                  "llm-inference",
+                  "llms",
+                  "nvidia-gpu",
+                  "ollama",
+                  "ray",
+                  "vscode",
+                  "vscode-extension",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -840,12 +1515,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another redundant workflow engine",
+                "homepage": "https://insitro.github.io/redun/",
                 "id": 424419603,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-17T14:45:30Z",
+                "open_issues": 34,
                 "owner": "insitro",
                 "repo": "redun",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "aws",
+                  "bioinformatics",
+                  "data-engineering",
+                  "data-science",
+                  "docker",
+                  "etl",
+                  "gcp",
+                  "ml",
+                  "python",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -856,12 +1547,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Slurm cluster using docker-compose",
+                "homepage": null,
                 "id": 103178051,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-09T21:31:49Z",
+                "open_issues": 2,
                 "owner": "giovtorres",
                 "repo": "slurm-docker-cluster",
-                "stars": 540
+                "stars": 540,
+                "topics": [
+                  "apptainer",
+                  "cuda",
+                  "docker",
+                  "docker-compose",
+                  "elasticsearch",
+                  "gpu",
+                  "hpc",
+                  "kibana",
+                  "lmod",
+                  "nvidia",
+                  "rocky-linux",
+                  "slurm",
+                  "slurm-cluster"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -872,12 +1582,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "poor man’s ruptime",
+                "homepage": "https://aiei.ch/ruptime",
                 "id": 460081388,
                 "language": "Shell",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-15T20:18:30Z",
+                "open_issues": 5,
                 "owner": "alexmyczko",
                 "repo": "ruptime",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "cli",
+                  "client-server",
+                  "gui",
+                  "internet",
+                  "inventory",
+                  "linux",
+                  "macos",
+                  "monitoring",
+                  "multinetwork",
+                  "ruptime",
+                  "rwho",
+                  "rwhod",
+                  "uptime",
+                  "webinterface"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -888,12 +1618,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Slurm dashboard for the terminal.",
+                "homepage": null,
                 "id": 267710488,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-15T14:01:08Z",
+                "open_issues": 18,
                 "owner": "mil-ad",
                 "repo": "stui",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "python",
+                  "slurm",
+                  "slurm-cluster",
+                  "slurm-utility",
+                  "terminal-based",
+                  "tui",
+                  "urwid"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -904,12 +1647,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perun is a Python package that measures the energy consumption of your applications.",
+                "homepage": "https://perun.readthedocs.io/en/latest/",
                 "id": 523363424,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T12:23:41Z",
+                "open_issues": 11,
                 "owner": "Helmholtz-AI-Energy",
                 "repo": "perun",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "benchmarking",
+                  "command-line-tool",
+                  "energy",
+                  "energy-monitor",
+                  "hpc",
+                  "mpi",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -920,12 +1676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A daemon that uses cgroups to monitor and manage user behavior on login nodes",
+                "homepage": null,
                 "id": 424689498,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-24T20:34:06Z",
+                "open_issues": 6,
                 "owner": "chpc-uofu",
                 "repo": "arbiter2",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -936,12 +1697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REMORA: REsource MOnitoring for Remote Applications",
+                "homepage": null,
                 "id": 40919916,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-15T18:44:17Z",
+                "open_issues": 19,
                 "owner": "TACC",
                 "repo": "remora",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -952,12 +1718,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://svenmarcus.github.io/hpc-rocket/",
                 "id": 358363996,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-04T11:47:20Z",
+                "open_issues": 8,
                 "owner": "SvenMarcus",
                 "repo": "hpc-rocket",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "ci",
+                  "continuous-integration",
+                  "hpc"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -968,12 +1743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A `top`-like utility for the Slurm HPC batch job scheduler",
+                "homepage": null,
                 "id": 1033724794,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-09T14:46:14Z",
+                "open_issues": 2,
                 "owner": "buzh",
                 "repo": "slop",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -984,12 +1764,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern Python library for SLURM workload manager integration with workflow orchestration capabilities.",
+                "homepage": "https://ksterx.github.io/srunx/",
                 "id": 1001397213,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:59:48Z",
+                "open_issues": 0,
                 "owner": "ksterx",
                 "repo": "srunx",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "cli",
+                  "cluster",
+                  "fastapi",
+                  "gpu",
+                  "hpc",
+                  "job-management",
+                  "mcp",
+                  "python",
+                  "sbatch",
+                  "scheduler",
+                  "slurm",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1000,12 +1798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI for browsing, canceling, and inspecting SLURM jobs",
+                "homepage": null,
                 "id": 567002814,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-13T22:10:37Z",
+                "open_issues": 0,
                 "owner": "Ruunyox",
                 "repo": "slurmvision",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1016,12 +1819,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform desktop client for Slurm HPC clusters — SSH, SFTP, remote files, job management, CLI and optional X11.",
+                "homepage": null,
                 "id": 1147936892,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T06:56:39Z",
+                "open_issues": 1,
                 "owner": "mskomek",
                 "repo": "hpc-client-gui",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cluster",
+                  "desktop-app",
+                  "hpc",
+                  "hpc-client",
+                  "linux",
+                  "pyside6",
+                  "remote-computing",
+                  "scientific-computing",
+                  "sftp",
+                  "sftp-client",
+                  "slurm",
+                  "slurm-gui",
+                  "slurm-job-scheduler",
+                  "slurm-workload-manager",
+                  "ssh",
+                  "ssh-client",
+                  "truba",
+                  "windows",
+                  "x11"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1039,12 +1867,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seer - a gui frontend to gdb",
+                "homepage": null,
                 "id": 402099758,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T00:37:39Z",
+                "open_issues": 47,
                 "owner": "epasveer",
                 "repo": "seer",
-                "stars": 3431
+                "stars": 3431,
+                "topics": [
+                  "cpp",
+                  "debug",
+                  "debugger",
+                  "debugger-gdb",
+                  "debugger-visualizer",
+                  "debugger-visualizers",
+                  "debuggers",
+                  "debugging",
+                  "debugging-tool",
+                  "debugging-tools",
+                  "gdb",
+                  "gdb-frontend",
+                  "gdb-mi",
+                  "gdb-ui",
+                  "gdbserver",
+                  "gnu-debugger",
+                  "qt",
+                  "qt5",
+                  "qt6"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1062,12 +1915,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line benchmarking tool",
+                "homepage": null,
                 "id": 117356231,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-30T08:23:25Z",
+                "open_issues": 96,
                 "owner": "sharkdp",
                 "repo": "hyperfine",
-                "stars": 28757
+                "stars": 28757,
+                "topics": [
+                  "benchmark",
+                  "cli",
+                  "command-line",
+                  "rust",
+                  "terminal",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1078,12 +1943,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals",
+                "homepage": null,
                 "id": 228700143,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:44:28Z",
+                "open_issues": 152,
                 "owner": "plasma-umass",
                 "repo": "scalene",
-                "stars": 13494
+                "stars": 13494,
+                "topics": [
+                  "cpu",
+                  "cpu-profiling",
+                  "gpu",
+                  "gpu-programming",
+                  "memory-allocation",
+                  "memory-consumption",
+                  "performance-analysis",
+                  "performance-cpu",
+                  "profiler",
+                  "profiles-memory",
+                  "profiling",
+                  "python",
+                  "python-profilers",
+                  "scalene"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1094,12 +1979,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A microbenchmark support library",
+                "homepage": null,
                 "id": 15122806,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:18:00Z",
+                "open_issues": 174,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10375
+                "stars": 10375,
+                "topics": [
+                  "benchmark"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1110,12 +2002,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔬 A fast, interactive web-based viewer for performance profiles.",
+                "homepage": "https://www.speedscope.app",
                 "id": 111653897,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-15T15:39:25Z",
+                "open_issues": 158,
                 "owner": "jlfwong",
                 "repo": "speedscope",
-                "stars": 6733
+                "stars": 6734,
+                "topics": [
+                  "flamegraph",
+                  "flamegraphs",
+                  "performance-profiling",
+                  "performance-tools",
+                  "performance-visualization",
+                  "profile",
+                  "speedscope",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1126,12 +2032,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Linux perf GUI for performance analysis.",
+                "homepage": null,
                 "id": 76978254,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-05-12T14:39:40Z",
+                "open_issues": 85,
                 "owner": "KDAB",
                 "repo": "hotspot",
-                "stars": 5140
+                "stars": 5140,
+                "topics": [
+                  "cpp",
+                  "cpu-profiling",
+                  "linux",
+                  "perf",
+                  "performance",
+                  "performance-analysis",
+                  "profiler",
+                  "profiling",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1142,12 +2063,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A memory profiler for Linux.",
+                "homepage": null,
                 "id": 187042471,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-28T13:24:26Z",
+                "open_issues": 52,
                 "owner": "koute",
                 "repo": "bytehound",
-                "stars": 4805
+                "stars": 4805,
+                "topics": [
+                  "memory-profiler",
+                  "memory-profiling",
+                  "profiler",
+                  "profiling"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1158,12 +2089,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.",
+                "homepage": "https://www.phoronix-test-suite.com/",
                 "id": 15836700,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-27T01:52:43Z",
+                "open_issues": 274,
                 "owner": "phoronix-test-suite",
                 "repo": "phoronix-test-suite",
-                "stars": 3117
+                "stars": 3117,
+                "topics": [
+                  "benchmark",
+                  "benchmarking",
+                  "bsd",
+                  "linux",
+                  "performance",
+                  "php",
+                  "profiling",
+                  "solaris",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1174,12 +2120,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. ",
+                "homepage": "https://github.com/ColinIanKing/stress-ng",
                 "id": 36930672,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T15:09:41Z",
+                "open_issues": 2,
                 "owner": "ColinIanKing",
                 "repo": "stress-ng",
-                "stars": 2749
+                "stars": 2749,
+                "topics": [
+                  "c",
+                  "cpu",
+                  "disk",
+                  "freebsd",
+                  "kernel",
+                  "linux",
+                  "memory",
+                  "openbsd",
+                  "overheating",
+                  "posix",
+                  "stress-testing",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1190,12 +2154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intel PMU profiling tools",
+                "homepage": null,
                 "id": 9991018,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-24T05:02:11Z",
+                "open_issues": 194,
                 "owner": "andikleen",
                 "repo": "pmu-tools",
-                "stars": 2245
+                "stars": 2245,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1206,12 +2175,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Python and C++ nanosecond profiler, logger, tests enabler",
+                "homepage": null,
                 "id": 378388977,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-12T13:06:37Z",
+                "open_issues": 7,
                 "owner": "dfeneyrou",
                 "repo": "palanteer",
-                "stars": 2213
+                "stars": 2213,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "developer-tools",
+                  "embedded",
+                  "header-only",
+                  "logging",
+                  "memory-profiler",
+                  "optimization",
+                  "performance",
+                  "profiler",
+                  "profiling",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1222,12 +2209,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple open-source disk benchmark tool for Linux distros",
+                "homepage": null,
                 "id": 275258357,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T21:28:59Z",
+                "open_issues": 44,
                 "owner": "JonMagon",
                 "repo": "KDiskMark",
-                "stars": 1684
+                "stars": 1684,
+                "topics": [
+                  "benchmarking",
+                  "cpp",
+                  "crystaldiskmark",
+                  "dbus",
+                  "disk",
+                  "drive",
+                  "linux",
+                  "polkit",
+                  "qt5",
+                  "ssd"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1238,12 +2241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Measures the latency between CPU cores",
+                "homepage": null,
                 "id": 537734968,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-03-25T03:26:34Z",
+                "open_issues": 122,
                 "owner": "nviennot",
                 "repo": "core-to-core-latency",
-                "stars": 1360
+                "stars": 1360,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1254,12 +2262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IOR and mdtest",
+                "homepage": null,
                 "id": 37929199,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-03T07:11:01Z",
+                "open_issues": 48,
                 "owner": "hpc",
                 "repo": "ior",
-                "stars": 485
+                "stars": 485,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1270,12 +2283,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GPU benchmark tool for evaluating GPUs and CPUs on mixed operational intensity kernels (CUDA, OpenCL, HIP, SYCL, OpenMP)",
+                "homepage": null,
                 "id": 38060697,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-12T18:34:29Z",
+                "open_issues": 8,
                 "owner": "ekondis",
                 "repo": "mixbench",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "benchmark",
+                  "cuda",
+                  "gpu",
+                  "hip",
+                  "opencl",
+                  "openmp",
+                  "sycl"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1286,12 +2312,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caliper is an instrumentation and performance profiling library",
+                "homepage": "http://software.llnl.gov/Caliper/",
                 "id": 45953649,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T20:58:31Z",
+                "open_issues": 40,
                 "owner": "llnl",
                 "repo": "Caliper",
-                "stars": 418
+                "stars": 418,
+                "topics": [
+                  "annotation-apis",
+                  "caliper",
+                  "cpp",
+                  "hpc",
+                  "instrumentation",
+                  "performance",
+                  "performance-analysis",
+                  "performance-monitoring",
+                  "radiuss",
+                  "trace"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1302,12 +2344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple benchmark for memory throughput and latency",
+                "homepage": null,
                 "id": 7331040,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-07-04T14:38:58Z",
+                "open_issues": 21,
                 "owner": "ssvb",
                 "repo": "tinymembench",
-                "stars": 417
+                "stars": 417,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1318,12 +2365,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small OpenCL benchmark program to measure peak GPU/CPU performance.",
+                "homepage": null,
                 "id": 634619703,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T09:01:54Z",
+                "open_issues": 11,
                 "owner": "ProjectPhysX",
                 "repo": "OpenCL-Benchmark",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "bandwidth",
+                  "benchmark",
+                  "benchmarking",
+                  "flops",
+                  "gpgpu",
+                  "gpu",
+                  "gpu-computing",
+                  "high-performance-computing",
+                  "hpc",
+                  "opencl",
+                  "tool",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1334,12 +2399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loop Kernel Analysis and Performance Modeling Toolkit",
+                "homepage": null,
                 "id": 28035960,
                 "language": "Jupyter Notebook",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-01T14:12:17Z",
+                "open_issues": 13,
                 "owner": "RRZE-HPC",
                 "repo": "kerncraft",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1350,12 +2420,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ultimate bandwidth benchmark",
+                "homepage": null,
                 "id": 174952325,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-11T12:28:16Z",
+                "open_issues": 2,
                 "owner": "HPC-Dwarfs",
                 "repo": "TheBandwidthBenchmark",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "benchmark",
+                  "c",
+                  "cache",
+                  "cpu",
+                  "cuda",
+                  "gpu",
+                  "memory",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1366,12 +2450,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.",
+                "homepage": null,
                 "id": 1311955212,
                 "language": "Python",
-                "last_commit": "2026-08-29T01:57:32Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:31:27Z",
+                "open_issues": 69,
                 "owner": "morluto",
                 "repo": "flameox",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "benchmarking",
+                  "coding-agents",
+                  "cordis",
+                  "debugging",
+                  "developer-tools",
+                  "dsh",
+                  "dsh-plugin",
+                  "gpu-profiling",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "performance",
+                  "performance-analysis",
+                  "performance-engineering",
+                  "performance-regression",
+                  "profiler",
+                  "profiling",
+                  "python",
+                  "runtime-analysis"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1382,12 +2492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JUPITER Benchmark Suite",
+                "homepage": null,
                 "id": 764615316,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-18T14:24:12Z",
+                "open_issues": 0,
                 "owner": "FZJ-JSC",
                 "repo": "jubench",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1398,12 +2513,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 190214482,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-17T20:38:22Z",
+                "open_issues": 6,
                 "owner": "IBM",
                 "repo": "SpectrumScale_NETWORK_READINESS",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "benchmark",
+                  "ece",
+                  "ess3000",
+                  "fping",
+                  "gpfs",
+                  "kpi",
+                  "linux",
+                  "network",
+                  "nsdperf",
+                  "spectrumscale"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1414,12 +2545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quick way of spawning many batch jobs",
+                "homepage": null,
                 "id": 289707418,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-24T16:30:24Z",
+                "open_issues": 1,
                 "owner": "TACC",
                 "repo": "demonspawn",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1430,12 +2566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 279522974,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-09T08:09:36Z",
+                "open_issues": 3,
                 "owner": "SX-Aurora",
                 "repo": "Vftrace",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1453,12 +2594,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next generation of ADIOS developed in the Exascale Computing Program",
+                "homepage": "https://adios2.readthedocs.io/en/latest/index.html",
                 "id": 75750830,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T01:34:00Z",
+                "open_issues": 60,
                 "owner": "ornladios",
                 "repo": "ADIOS2",
-                "stars": 326
+                "stars": 326,
+                "topics": [
+                  "adios",
+                  "cmake",
+                  "ecp",
+                  "exascale",
+                  "exascale-computing",
+                  "hdf5",
+                  "high-performance-computing",
+                  "hpc",
+                  "io"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1476,12 +2632,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations.",
+                "homepage": "https://runmat.com",
                 "id": 1027423503,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:46:02Z",
+                "open_issues": 27,
                 "owner": "runmat-org",
                 "repo": "runmat",
-                "stars": 253
+                "stars": 253,
+                "topics": [
+                  "gpu",
+                  "gpu-acceleration",
+                  "gpu-computing",
+                  "gpu-programming",
+                  "jit-compiler",
+                  "jupyter",
+                  "linear-algebra",
+                  "mathematics",
+                  "matlab",
+                  "numerical-analysis",
+                  "plotting",
+                  "rust",
+                  "scientific-computing"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1499,12 +2674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+                "homepage": "https://microsoft.github.io/mimalloc",
                 "id": 192805335,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:52:46Z",
+                "open_issues": 312,
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13333
+                "stars": 13333,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1515,12 +2695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://jemalloc.net/",
                 "id": 13310527,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:03:52Z",
+                "open_issues": 369,
                 "owner": "jemalloc",
                 "repo": "jemalloc",
-                "stars": 11073
+                "stars": 11073,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1531,12 +2716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 204009988,
                 "language": "C++",
-                "last_commit": "2026-08-29T00:16:29Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:25:21Z",
+                "open_issues": 91,
                 "owner": "google",
                 "repo": "tcmalloc",
-                "stars": 5333
+                "stars": 5333,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1547,12 +2737,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Hoard Memory Allocator: A Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac.",
+                "homepage": "http://www.hoard.org",
                 "id": 3931380,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-19T14:22:15Z",
+                "open_issues": 1,
                 "owner": "emeryberger",
                 "repo": "Hoard",
-                "stars": 1249
+                "stars": 1249,
+                "topics": [
+                  "malloc",
+                  "memory-allocation",
+                  "memory-manager"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1576,12 +2775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apple AMX Instruction Set",
+                "homepage": null,
                 "id": 530536922,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-12-26T15:29:28Z",
+                "open_issues": 2,
                 "owner": "corsix",
                 "repo": "amx",
-                "stars": 1263
+                "stars": 1263,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1599,12 +2803,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Cloud HPC.",
+                "homepage": null,
                 "id": 739257049,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-11-06T03:02:00Z",
+                "open_issues": 11,
                 "owner": "kjrstory",
                 "repo": "awesome-cloud-hpc",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1628,12 +2840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an online course where you can learn and master the skill of low-level performance analysis and tuning.",
+                "homepage": null,
                 "id": 387675964,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-25T19:12:14Z",
+                "open_issues": 13,
                 "owner": "dendibakh",
                 "repo": "perf-ninja",
-                "stars": 3830
+                "stars": 3830,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1644,12 +2861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lectures for the SC3260 HPC course at Vanderbilt",
+                "homepage": null,
                 "id": 229028352,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-05-05T18:44:25Z",
+                "open_issues": 2,
                 "owner": "vanderbiltscl",
                 "repo": "SC3260_HPC",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1669,12 +2891,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tutorial for installing Open XDMoD, OnDemand, & ColdFront",
+                    "homepage": null,
                     "id": 272747180,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-17T13:22:27Z",
+                    "open_issues": 26,
                     "owner": "ubccr",
                     "repo": "hpc-toolset-tutorial",
-                    "stars": 205
+                    "stars": 205,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:57.029Z"
                 },
@@ -1685,12 +2912,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "How to use node-local MPI rank IDs to manually map MPI ranks to GPUs",
+                    "homepage": null,
                     "id": 175308908,
                     "language": "Cuda",
+                    "license": null,
                     "last_commit": "2020-04-22T20:07:23Z",
+                    "open_issues": 1,
                     "owner": "olcf-tutorials",
                     "repo": "local_mpi_to_gpu",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:57.029Z"
                 }
@@ -1713,12 +2945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dummy's guide to setting up (and using) HPC clusters on Ubuntu 22.04LTS using Slurm  and Munge. Created by the Quant Club @ UIowa.",
+                "homepage": null,
                 "id": 703298597,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-03T16:34:41Z",
+                "open_issues": 11,
                 "owner": "SergioMEV",
                 "repo": "slurm-for-dummies",
-                "stars": 442
+                "stars": 442,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1729,12 +2966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform modules to replicate the HPC user experience in the cloud",
+                "homepage": null,
                 "id": 204500239,
                 "language": "HCL",
+                "license": "MIT",
                 "last_commit": "2026-08-20T19:50:41Z",
+                "open_issues": 16,
                 "owner": "ComputeCanada",
                 "repo": "magic_castle",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1745,12 +2987,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instantly fire up container-based emulated HPC cluster",
+                "homepage": null,
                 "id": 429770403,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-07T14:47:21Z",
+                "open_issues": 14,
                 "owner": "rackslab",
                 "repo": "FireHPC",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1761,12 +3008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beowulf Cluster Resources",
+                "homepage": null,
                 "id": 143170445,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-01-15T19:44:45Z",
+                "open_issues": 0,
                 "owner": "darshanmandge",
                 "repo": "Cluster",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1784,12 +3036,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JIT assembler for x86/x64 architectures supporting the latest instruction set extensions such as AVX10.2 and ACE",
+                "homepage": null,
                 "id": 612895,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T23:54:49Z",
+                "open_issues": 0,
                 "owner": "herumi",
                 "repo": "xbyak",
-                "stars": 2270
+                "stars": 2270,
+                "topics": [
+                  "assembler",
+                  "jit",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1800,12 +3061,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple yet fancy CPU architecture fetching tool",
+                "homepage": null,
                 "id": 126449599,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2025-11-01T09:07:03Z",
+                "open_issues": 131,
                 "owner": "Dr-Noob",
                 "repo": "cpufetch",
-                "stars": 2139
+                "stars": 2139,
+                "topics": [
+                  "amd",
+                  "android",
+                  "arm",
+                  "cpus",
+                  "intel",
+                  "linux",
+                  "macos",
+                  "microarchitecture",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1816,12 +3092,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Information about many aspects of high-performance computing.  Wiki content moved to ~/docs.",
+                "homepage": "https://github.com/jeffhammond/HPCInfo/tree/master/docs",
                 "id": 12674497,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-13T12:40:06Z",
+                "open_issues": 0,
                 "owner": "jeffhammond",
                 "repo": "HPCInfo",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "hpc",
+                  "mpi",
+                  "parallel",
+                  "supercomputing"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1832,12 +3118,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 348493646,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2022-05-11T05:51:39Z",
+                "open_issues": 0,
                 "owner": "westernmagic",
                 "repo": "rust-in-hpc",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "cpp",
+                  "fortran",
+                  "hpc",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1848,12 +3144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The \"sc\" auxiliary library",
+                "homepage": "www.p4est.org/",
                 "id": 3974693,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-05-22T12:10:21Z",
+                "open_issues": 2,
                 "owner": "cburstedde",
                 "repo": "libsc",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1864,12 +3165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beowulf Cluster Resources",
+                "homepage": null,
                 "id": 143170445,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-01-15T19:44:45Z",
+                "open_issues": 0,
                 "owner": "darshanmandge",
                 "repo": "Cluster",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1880,12 +3186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Top500 Datasets",
+                "homepage": null,
                 "id": 314402197,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-11-24T16:59:18Z",
+                "open_issues": 0,
                 "owner": "glennklockwood",
                 "repo": "top500-data",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1903,12 +3214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Deadlock Empire: Slay dragons, learn concurrency!",
+                "homepage": "https://deadlockempire.github.io",
                 "id": 50751974,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2025-05-09T23:08:32Z",
+                "open_issues": 24,
                 "owner": "deadlockempire",
                 "repo": "deadlockempire.github.io",
-                "stars": 1055
+                "stars": 1055,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             }
@@ -1930,12 +3246,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome parallel computing resources",
+            "homepage": null,
             "id": 209630578,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-18T21:05:14Z",
+            "open_issues": 1,
             "owner": "taskflow",
             "repo": "awesome-parallel-computing",
-            "stars": 804
+            "stars": 804,
+            "topics": [
+              "distributed-computing",
+              "distributed-systems",
+              "heterogeneous-computing",
+              "heterogeneous-parallel-programming",
+              "parallel-computing",
+              "parallel-programming"
+            ]
           },
           "first_seen": "2026-08-29T01:57:57.029Z"
         },
@@ -1946,12 +3274,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Directory of Fortran codes on GitHub, arranged by topic",
+            "homepage": "https://beliavsky.github.io/Fortran-code-on-GitHub/",
             "id": 376537929,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-08-06T19:48:16Z",
+            "open_issues": 42,
             "owner": "Beliavsky",
             "repo": "Fortran-code-on-GitHub",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "cfd",
+              "earth-science",
+              "electronic-structure",
+              "finite-elements",
+              "fortran",
+              "linear-algebra",
+              "list",
+              "machine-learning",
+              "modern-fortran",
+              "numerical-integration",
+              "numerical-methods",
+              "numerical-optimization",
+              "nwp",
+              "quantum-chemistry",
+              "scientific-computing",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T01:57:57.029Z"
         },
@@ -1962,12 +3312,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Awesome HPC software and tools",
+            "homepage": null,
             "id": 407182497,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-06T10:36:49Z",
+            "open_issues": 19,
             "owner": "dstdev",
             "repo": "awesome-hpc",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-29T01:57:57.029Z"
         },
@@ -1978,12 +3336,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Links to Fortran compilers, preprocessors, formatters, static analyzers, transpilers, IDEs, build systems, etc.",
+            "homepage": "https://beliavsky.github.io/Fortran-Tools/",
             "id": 388494257,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T18:05:19Z",
+            "open_issues": 12,
             "owner": "Beliavsky",
             "repo": "Fortran-Tools",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "automatic-differentiation",
+              "automatic-documentation",
+              "build-system",
+              "build-tool",
+              "command-line",
+              "command-line-parser",
+              "compilers",
+              "documentation",
+              "fortran",
+              "fortran-compiler",
+              "hpc",
+              "list",
+              "makefile",
+              "makefile-generation",
+              "preprocessor",
+              "static-analysis",
+              "static-analyzer",
+              "text-editor",
+              "tools",
+              "transpilers"
+            ]
           },
           "first_seen": "2026-08-29T01:57:57.029Z"
         },
@@ -1994,12 +3378,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallel Computing Guide",
+            "homepage": null,
             "id": 410658650,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-26T21:50:47Z",
+            "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Parallel-Computing-Guide",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-readme",
+              "high-performance",
+              "high-performance-computing",
+              "machine-learning",
+              "parallel-computing",
+              "parallel-programming",
+              "parallelism"
+            ]
           },
           "first_seen": "2026-08-29T01:57:57.029Z"
         },
@@ -2010,12 +3409,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Cloud HPC.",
+            "homepage": null,
             "id": 739257049,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-11-06T03:02:00Z",
+            "open_issues": 11,
             "owner": "kjrstory",
             "repo": "awesome-cloud-hpc",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-29T01:57:57.029Z"
         }
@@ -2024,15 +3431,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:57:57.029Z",
+    "last_updated": "2026-08-29T04:31:37.582Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome high performance computing resources",
+      "homepage": null,
       "id": 342449954,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-28T20:22:28Z",
+      "open_issues": 0,
       "owner": "trevor-vincent",
       "repo": "awesome-high-performance-computing",
-      "stars": 1313
+      "stars": 1313,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hpc"
+      ]
     },
     "original_repository_sha": "9d4fb14555fd3530c09447e010723b6866a122bf",
     "enhanced_repository": "enhansome/enhansome-high-performance-computing",
