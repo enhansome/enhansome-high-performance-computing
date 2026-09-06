@@ -17,11 +17,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T09:30:18Z",
-                "open_issues": 1364,
+                "last_commit": "2026-09-06T20:09:26Z",
+                "open_issues": 1384,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43064,
+                "stars": 43065,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -80,11 +80,11 @@
                 "id": 410989014,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T19:30:43Z",
+                "last_commit": "2026-09-06T18:43:37Z",
                 "open_issues": 125,
                 "owner": "exaloop",
                 "repo": "codon",
-                "stars": 16838,
+                "stars": 16839,
                 "topics": [
                   "compiler",
                   "gpu-programming",
@@ -113,7 +113,7 @@
                 "open_issues": 163,
                 "owner": "vosen",
                 "repo": "ZLUDA",
-                "stars": 14802,
+                "stars": 14806,
                 "topics": [
                   "cuda",
                   "rust"
@@ -137,7 +137,7 @@
                 "open_issues": 406,
                 "owner": "horovod",
                 "repo": "horovod",
-                "stars": 14685,
+                "stars": 14684,
                 "topics": [
                   "baidu",
                   "deep-learning",
@@ -172,7 +172,7 @@
                 "open_issues": 35,
                 "owner": "taskflow",
                 "repo": "taskflow",
-                "stars": 12139,
+                "stars": 12141,
                 "topics": [
                   "concurrent-programming",
                   "cuda-programming",
@@ -209,7 +209,7 @@
                 "open_issues": 70,
                 "owner": "google",
                 "repo": "highway",
-                "stars": 5797,
+                "stars": 5801,
                 "topics": [
                   "avx",
                   "avx-512",
@@ -246,7 +246,7 @@
                 "open_issues": 44,
                 "owner": "ROCm",
                 "repo": "hip",
-                "stars": 4394,
+                "stars": 4397,
                 "topics": [
                   "cuda",
                   "hip",
@@ -297,11 +297,11 @@
                 "id": 1218231004,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T15:25:54Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-06T08:34:34Z",
+                "open_issues": 41,
                 "owner": "NVlabs",
                 "repo": "cuda-oxide",
-                "stars": 3127,
+                "stars": 3129,
                 "topics": [
                   "async",
                   "compiler-backend",
@@ -356,11 +356,11 @@
                 "id": 4455628,
                 "language": "C++",
                 "license": "BSL-1.0",
-                "last_commit": "2026-09-05T20:22:02Z",
-                "open_issues": 141,
+                "last_commit": "2026-09-06T20:32:39Z",
+                "open_issues": 133,
                 "owner": "TheHPXProject",
                 "repo": "hpx",
-                "stars": 2891,
+                "stars": 2890,
                 "topics": [
                   "c-plus-plus",
                   "concurrency",
@@ -452,8 +452,8 @@
                 "id": 25379390,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T19:36:49Z",
-                "open_issues": 878,
+                "last_commit": "2026-09-06T13:44:48Z",
+                "open_issues": 880,
                 "owner": "openucx",
                 "repo": "ucx",
                 "stars": 1702,
@@ -663,11 +663,11 @@
                 "id": 349152473,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-05T20:46:58Z",
+                "last_commit": "2026-09-06T00:46:48Z",
                 "open_issues": 56,
                 "owner": "It4innovations",
                 "repo": "hyperqueue",
-                "stars": 558,
+                "stars": 559,
                 "topics": [
                   "distributed-computing",
                   "hpc",
@@ -861,7 +861,7 @@
                 "open_issues": 9,
                 "owner": "facebookincubator",
                 "repo": "dispenso",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -1163,10 +1163,10 @@
                 "language": "Shell",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-04T22:23:16Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "NVIDIA",
                 "repo": "deepops",
-                "stars": 1471,
+                "stars": 1472,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -1408,11 +1408,11 @@
                 "id": 15111821,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-05T19:29:49Z",
-                "open_issues": 3363,
+                "last_commit": "2026-09-06T19:57:12Z",
+                "open_issues": 3355,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76592,
+                "stars": 76641,
                 "topics": [
                   "alerting",
                   "analytics",
@@ -1738,6 +1738,40 @@
             },
             {
               "node_type": "item",
+              "title": "srunx",
+              "description": "Python toolkit for managing SLURM jobs and workflows. Provides a CLI (sbatch / squeue / scancel parity), a FastAPI Web UI, an MCP server for natural-language control from Claude, YAML workflows with parameter sweeps and inter-job dependencies, GPU resource monitoring, SSH-based remote execution with rsync project sync, and Slack notifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A modern Python library for SLURM workload manager integration with workflow orchestration capabilities.",
+                "homepage": "https://ksterx.github.io/srunx/",
+                "id": 1001397213,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-27T09:59:48Z",
+                "open_issues": 0,
+                "owner": "ksterx",
+                "repo": "srunx",
+                "stars": 17,
+                "topics": [
+                  "cli",
+                  "cluster",
+                  "fastapi",
+                  "gpu",
+                  "hpc",
+                  "job-management",
+                  "mcp",
+                  "python",
+                  "sbatch",
+                  "scheduler",
+                  "slurm",
+                  "workflow"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:57.029Z"
+            },
+            {
+              "node_type": "item",
               "title": "slop",
               "description": "\"top\"-like command for slurm clusters",
               "children": [],
@@ -1754,40 +1788,6 @@
                 "repo": "slop",
                 "stars": 16,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:57:57.029Z"
-            },
-            {
-              "node_type": "item",
-              "title": "srunx",
-              "description": "Python toolkit for managing SLURM jobs and workflows. Provides a CLI (sbatch / squeue / scancel parity), a FastAPI Web UI, an MCP server for natural-language control from Claude, YAML workflows with parameter sweeps and inter-job dependencies, GPU resource monitoring, SSH-based remote execution with rsync project sync, and Slack notifications.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A modern Python library for SLURM workload manager integration with workflow orchestration capabilities.",
-                "homepage": "https://ksterx.github.io/srunx/",
-                "id": 1001397213,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-08-27T09:59:48Z",
-                "open_issues": 0,
-                "owner": "ksterx",
-                "repo": "srunx",
-                "stars": 16,
-                "topics": [
-                  "cli",
-                  "cluster",
-                  "fastapi",
-                  "gpu",
-                  "hpc",
-                  "job-management",
-                  "mcp",
-                  "python",
-                  "sbatch",
-                  "scheduler",
-                  "slurm",
-                  "workflow"
-                ]
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -1824,7 +1824,7 @@
                 "id": 1147936892,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T20:22:27Z",
+                "last_commit": "2026-09-06T19:44:05Z",
                 "open_issues": 1,
                 "owner": "mskomek",
                 "repo": "hpc-client-gui",
@@ -1872,11 +1872,11 @@
                 "id": 402099758,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T17:31:57Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-06T19:04:24Z",
+                "open_issues": 41,
                 "owner": "epasveer",
                 "repo": "seer",
-                "stars": 3431,
+                "stars": 3433,
                 "topics": [
                   "cpp",
                   "debug",
@@ -1924,7 +1924,7 @@
                 "open_issues": 97,
                 "owner": "sharkdp",
                 "repo": "hyperfine",
-                "stars": 28805,
+                "stars": 28809,
                 "topics": [
                   "benchmark",
                   "cli",
@@ -1952,7 +1952,7 @@
                 "open_issues": 153,
                 "owner": "plasma-umass",
                 "repo": "scalene",
-                "stars": 13497,
+                "stars": 13496,
                 "topics": [
                   "cpu",
                   "cpu-profiling",
@@ -1988,7 +1988,7 @@
                 "open_issues": 175,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10385,
+                "stars": 10388,
                 "topics": [
                   "benchmark"
                 ]
@@ -2098,7 +2098,7 @@
                 "open_issues": 274,
                 "owner": "phoronix-test-suite",
                 "repo": "phoronix-test-suite",
-                "stars": 3122,
+                "stars": 3124,
                 "topics": [
                   "benchmark",
                   "benchmarking",
@@ -2129,7 +2129,7 @@
                 "open_issues": 3,
                 "owner": "ColinIanKing",
                 "repo": "stress-ng",
-                "stars": 2754,
+                "stars": 2755,
                 "topics": [
                   "c",
                   "cpu",
@@ -2218,7 +2218,7 @@
                 "open_issues": 44,
                 "owner": "JonMagon",
                 "repo": "KDiskMark",
-                "stars": 1690,
+                "stars": 1691,
                 "topics": [
                   "benchmarking",
                   "cpp",
@@ -2268,7 +2268,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-03T07:11:01Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "hpc",
                 "repo": "ior",
                 "stars": 486,
@@ -2374,7 +2374,7 @@
                 "open_issues": 11,
                 "owner": "ProjectPhysX",
                 "repo": "OpenCL-Benchmark",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "bandwidth",
                   "benchmark",
@@ -2394,27 +2394,6 @@
             },
             {
               "node_type": "item",
-              "title": "kerncraft",
-              "description": "A tool for analytical modeling of loop performance and cache behavior on HPC systems.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Loop Kernel Analysis and Performance Modeling Toolkit",
-                "homepage": null,
-                "id": 28035960,
-                "language": "Jupyter Notebook",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-07-01T14:12:17Z",
-                "open_issues": 13,
-                "owner": "RRZE-HPC",
-                "repo": "kerncraft",
-                "stars": 99,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:57:57.029Z"
-            },
-            {
-              "node_type": "item",
               "title": "flameox",
               "description": "Profiling and optimization toolkit for agents that captures and compares evidence from native services, PyTorch, GPU kernels, and inference workloads.",
               "children": [],
@@ -2425,11 +2404,11 @@
                 "id": 1311955212,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T07:19:52Z",
+                "last_commit": "2026-09-06T04:33:29Z",
                 "open_issues": 1,
                 "owner": "morluto",
                 "repo": "flameox",
-                "stars": 94,
+                "stars": 106,
                 "topics": [
                   "benchmarking",
                   "coding-agents",
@@ -2452,6 +2431,27 @@
                   "python",
                   "runtime-analysis"
                 ]
+              },
+              "first_seen": "2026-08-29T01:57:57.029Z"
+            },
+            {
+              "node_type": "item",
+              "title": "kerncraft",
+              "description": "A tool for analytical modeling of loop performance and cache behavior on HPC systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Loop Kernel Analysis and Performance Modeling Toolkit",
+                "homepage": null,
+                "id": 28035960,
+                "language": "Jupyter Notebook",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-07-01T14:12:17Z",
+                "open_issues": 13,
+                "owner": "RRZE-HPC",
+                "repo": "kerncraft",
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
             },
@@ -2679,11 +2679,11 @@
                 "id": 192805335,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-05T18:39:46Z",
+                "last_commit": "2026-09-06T18:10:13Z",
                 "open_issues": 306,
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13351,
+                "stars": 13353,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2725,7 +2725,7 @@
                 "open_issues": 115,
                 "owner": "google",
                 "repo": "tcmalloc",
-                "stars": 5341,
+                "stars": 5342,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2746,7 +2746,7 @@
                 "open_issues": 1,
                 "owner": "emeryberger",
                 "repo": "Hoard",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": [
                   "malloc",
                   "memory-allocation",
@@ -2845,7 +2845,7 @@
                 "id": 387675964,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-04T18:57:31Z",
+                "last_commit": "2026-09-06T10:48:57Z",
                 "open_issues": 13,
                 "owner": "dendibakh",
                 "repo": "perf-ninja",
@@ -3223,7 +3223,7 @@
                 "open_issues": 24,
                 "owner": "deadlockempire",
                 "repo": "deadlockempire.github.io",
-                "stars": 1056,
+                "stars": 1057,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -3279,7 +3279,7 @@
             "id": 376537929,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-08-06T19:48:16Z",
+            "last_commit": "2026-09-05T23:31:39Z",
             "open_issues": 42,
             "owner": "Beliavsky",
             "repo": "Fortran-code-on-GitHub",
@@ -3431,7 +3431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:53:52.946Z",
+    "last_updated": "2026-09-06T21:00:11.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome high performance computing resources",
