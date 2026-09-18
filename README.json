@@ -17,11 +17,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T21:09:24Z",
-                "open_issues": 1435,
+                "last_commit": "2026-09-18T19:40:03Z",
+                "open_issues": 1441,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43129,
+                "stars": 43135,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -56,7 +56,7 @@
                 "open_issues": 924,
                 "owner": "taichi-dev",
                 "repo": "taichi",
-                "stars": 28372,
+                "stars": 28373,
                 "topics": [
                   "computer-graphics",
                   "differentiable-programming",
@@ -80,7 +80,7 @@
                 "id": 410989014,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T20:53:58Z",
+                "last_commit": "2026-09-18T18:15:07Z",
                 "open_issues": 116,
                 "owner": "exaloop",
                 "repo": "codon",
@@ -113,7 +113,7 @@
                 "open_issues": 166,
                 "owner": "vosen",
                 "repo": "ZLUDA",
-                "stars": 14858,
+                "stars": 14863,
                 "topics": [
                   "cuda",
                   "rust"
@@ -172,7 +172,7 @@
                 "open_issues": 36,
                 "owner": "taskflow",
                 "repo": "taskflow",
-                "stars": 12170,
+                "stars": 12172,
                 "topics": [
                   "concurrent-programming",
                   "cuda-programming",
@@ -205,11 +205,11 @@
                 "id": 206791328,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T21:05:35Z",
-                "open_issues": 72,
+                "last_commit": "2026-09-18T18:13:26Z",
+                "open_issues": 71,
                 "owner": "google",
                 "repo": "highway",
-                "stars": 5846,
+                "stars": 5859,
                 "topics": [
                   "avx",
                   "avx-512",
@@ -270,11 +270,11 @@
                 "id": 1218231004,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T09:11:15Z",
-                "open_issues": 76,
+                "last_commit": "2026-09-18T13:09:29Z",
+                "open_issues": 64,
                 "owner": "NVlabs",
                 "repo": "cuda-oxide",
-                "stars": 3460,
+                "stars": 3502,
                 "topics": [
                   "async",
                   "compiler-backend",
@@ -329,7 +329,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-17T13:59:03Z",
-                "open_issues": 286,
+                "open_issues": 287,
                 "owner": "ispc",
                 "repo": "ispc",
                 "stars": 2954,
@@ -356,8 +356,8 @@
                 "id": 4455628,
                 "language": "C++",
                 "license": "BSL-1.0",
-                "last_commit": "2026-09-17T21:45:08Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-18T15:15:21Z",
+                "open_issues": 146,
                 "owner": "TheHPXProject",
                 "repo": "hpx",
                 "stars": 2892,
@@ -385,8 +385,8 @@
                 "id": 33634359,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T17:55:58Z",
-                "open_issues": 551,
+                "last_commit": "2026-09-18T20:25:39Z",
+                "open_issues": 547,
                 "owner": "kokkos",
                 "repo": "kokkos",
                 "stars": 2686,
@@ -418,7 +418,7 @@
                 "open_issues": 79,
                 "owner": "KomputeProject",
                 "repo": "kompute",
-                "stars": 2567,
+                "stars": 2568,
                 "topics": [
                   "cpp",
                   "deep-learning",
@@ -452,8 +452,8 @@
                 "id": 25379390,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T20:32:32Z",
-                "open_issues": 889,
+                "last_commit": "2026-09-18T18:27:05Z",
+                "open_issues": 885,
                 "owner": "openucx",
                 "repo": "ucx",
                 "stars": 1713,
@@ -632,8 +632,8 @@
                 "id": 57340960,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-17T21:23:34Z",
-                "open_issues": 210,
+                "last_commit": "2026-09-18T20:04:01Z",
+                "open_issues": 209,
                 "owner": "llnl",
                 "repo": "RAJA",
                 "stars": 598,
@@ -663,11 +663,11 @@
                 "id": 349152473,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-17T07:09:17Z",
+                "last_commit": "2026-09-18T01:11:01Z",
                 "open_issues": 54,
                 "owner": "It4innovations",
                 "repo": "hyperqueue",
-                "stars": 561,
+                "stars": 562,
                 "topics": [
                   "distributed-computing",
                   "hpc",
@@ -718,7 +718,7 @@
                 "id": 134986009,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T13:06:49Z",
+                "last_commit": "2026-09-18T20:45:56Z",
                 "open_issues": 105,
                 "owner": "kubeflow",
                 "repo": "mpi-operator",
@@ -1016,7 +1016,7 @@
                 "open_issues": 132,
                 "owner": "Dr-Noob",
                 "repo": "cpufetch",
-                "stars": 2146,
+                "stars": 2147,
                 "topics": [
                   "amd",
                   "android",
@@ -1044,7 +1044,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T14:22:07Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "RRZE-HPC",
                 "repo": "likwid",
                 "stars": 1943,
@@ -1243,7 +1243,7 @@
                 "open_issues": 1,
                 "owner": "hill",
                 "repo": "lazyslurm",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "cli",
                   "hpc",
@@ -1267,7 +1267,7 @@
                 "id": 728178901,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T15:35:10Z",
+                "last_commit": "2026-09-18T20:43:10Z",
                 "open_issues": 4,
                 "owner": "hpc-gridware",
                 "repo": "clusterscheduler",
@@ -1380,7 +1380,7 @@
                 "open_issues": 7,
                 "owner": "RIKEN-SysSoft",
                 "repo": "mckernel",
-                "stars": 128,
+                "stars": 126,
                 "topics": [
                   "hpc",
                   "operating-system",
@@ -1408,11 +1408,11 @@
                 "id": 15111821,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-17T21:36:08Z",
-                "open_issues": 3315,
+                "last_commit": "2026-09-18T21:20:18Z",
+                "open_issues": 3310,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76790,
+                "stars": 76802,
                 "topics": [
                   "alerting",
                   "analytics",
@@ -1706,7 +1706,7 @@
                 "open_issues": 19,
                 "owner": "TACC",
                 "repo": "remora",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -1924,7 +1924,7 @@
                 "open_issues": 97,
                 "owner": "sharkdp",
                 "repo": "hyperfine",
-                "stars": 28874,
+                "stars": 28880,
                 "topics": [
                   "benchmark",
                   "cli",
@@ -1952,7 +1952,7 @@
                 "open_issues": 153,
                 "owner": "plasma-umass",
                 "repo": "scalene",
-                "stars": 13509,
+                "stars": 13510,
                 "topics": [
                   "cpu",
                   "cpu-profiling",
@@ -1988,7 +1988,7 @@
                 "open_issues": 172,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10410,
+                "stars": 10411,
                 "topics": [
                   "benchmark"
                 ]
@@ -2011,7 +2011,7 @@
                 "open_issues": 159,
                 "owner": "jlfwong",
                 "repo": "speedscope",
-                "stars": 6751,
+                "stars": 6752,
                 "topics": [
                   "flamegraph",
                   "flamegraphs",
@@ -2098,7 +2098,7 @@
                 "open_issues": 275,
                 "owner": "phoronix-test-suite",
                 "repo": "phoronix-test-suite",
-                "stars": 3135,
+                "stars": 3138,
                 "topics": [
                   "benchmark",
                   "benchmarking",
@@ -2125,11 +2125,11 @@
                 "id": 36930672,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-17T15:22:25Z",
+                "last_commit": "2026-09-18T12:11:54Z",
                 "open_issues": 1,
                 "owner": "ColinIanKing",
                 "repo": "stress-ng",
-                "stars": 2768,
+                "stars": 2774,
                 "topics": [
                   "c",
                   "cpu",
@@ -2218,7 +2218,7 @@
                 "open_issues": 44,
                 "owner": "JonMagon",
                 "repo": "KDiskMark",
-                "stars": 1695,
+                "stars": 1696,
                 "topics": [
                   "benchmarking",
                   "cpp",
@@ -2678,11 +2678,11 @@
                 "id": 192805335,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-17T01:14:22Z",
-                "open_issues": 298,
+                "last_commit": "2026-09-18T17:15:50Z",
+                "open_issues": 300,
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13369,
+                "stars": 13371,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2699,11 +2699,11 @@
                 "id": 13310527,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T18:45:23Z",
-                "open_issues": 370,
+                "last_commit": "2026-09-17T23:43:16Z",
+                "open_issues": 366,
                 "owner": "jemalloc",
                 "repo": "jemalloc",
-                "stars": 11109,
+                "stars": 11166,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2720,11 +2720,11 @@
                 "id": 204009988,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T21:50:44Z",
-                "open_issues": 206,
+                "last_commit": "2026-09-18T21:19:06Z",
+                "open_issues": 182,
                 "owner": "google",
                 "repo": "tcmalloc",
-                "stars": 5353,
+                "stars": 5355,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2745,7 +2745,7 @@
                 "open_issues": 1,
                 "owner": "emeryberger",
                 "repo": "Hoard",
-                "stars": 1251,
+                "stars": 1252,
                 "topics": [
                   "malloc",
                   "memory-allocation",
@@ -2811,7 +2811,7 @@
                 "open_issues": 11,
                 "owner": "kjrstory",
                 "repo": "awesome-cloud-hpc",
-                "stars": 31,
+                "stars": 30,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2953,7 +2953,7 @@
                 "open_issues": 11,
                 "owner": "SergioMEV",
                 "repo": "slurm-for-dummies",
-                "stars": 445,
+                "stars": 443,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2995,7 +2995,7 @@
                 "open_issues": 15,
                 "owner": "rackslab",
                 "repo": "FireHPC",
-                "stars": 20,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -3040,8 +3040,8 @@
                 "id": 612895,
                 "language": "C",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-17T01:59:49Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-17T23:33:39Z",
+                "open_issues": 0,
                 "owner": "herumi",
                 "repo": "xbyak",
                 "stars": 2275,
@@ -3069,7 +3069,7 @@
                 "open_issues": 132,
                 "owner": "Dr-Noob",
                 "repo": "cpufetch",
-                "stars": 2146,
+                "stars": 2147,
                 "topics": [
                   "amd",
                   "android",
@@ -3320,7 +3320,7 @@
             "open_issues": 19,
             "owner": "dstdev",
             "repo": "awesome-hpc",
-            "stars": 272,
+            "stars": 271,
             "topics": [
               "awesome",
               "awesome-list"
@@ -3417,7 +3417,7 @@
             "open_issues": 11,
             "owner": "kjrstory",
             "repo": "awesome-cloud-hpc",
-            "stars": 31,
+            "stars": 30,
             "topics": [
               "awesome",
               "awesome-list"
@@ -3430,7 +3430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:51:55.906Z",
+    "last_updated": "2026-09-18T21:23:23.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome high performance computing resources",
@@ -3442,7 +3442,7 @@
       "open_issues": 0,
       "owner": "trevor-vincent",
       "repo": "awesome-high-performance-computing",
-      "stars": 1325,
+      "stars": 1324,
       "topics": [
         "awesome",
         "awesome-list",
