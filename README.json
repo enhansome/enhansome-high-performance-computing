@@ -17,11 +17,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T04:02:00Z",
-                "open_issues": 1447,
+                "last_commit": "2026-09-20T10:03:53Z",
+                "open_issues": 1456,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43142,
+                "stars": 43145,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -56,7 +56,7 @@
                 "open_issues": 924,
                 "owner": "taichi-dev",
                 "repo": "taichi",
-                "stars": 28376,
+                "stars": 28377,
                 "topics": [
                   "computer-graphics",
                   "differentiable-programming",
@@ -80,11 +80,11 @@
                 "id": 410989014,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T15:03:26Z",
+                "last_commit": "2026-09-20T19:19:23Z",
                 "open_issues": 118,
                 "owner": "exaloop",
                 "repo": "codon",
-                "stars": 16837,
+                "stars": 16838,
                 "topics": [
                   "compiler",
                   "gpu-programming",
@@ -113,7 +113,7 @@
                 "open_issues": 167,
                 "owner": "vosen",
                 "repo": "ZLUDA",
-                "stars": 14867,
+                "stars": 14869,
                 "topics": [
                   "cuda",
                   "rust"
@@ -172,7 +172,7 @@
                 "open_issues": 36,
                 "owner": "taskflow",
                 "repo": "taskflow",
-                "stars": 12172,
+                "stars": 12175,
                 "topics": [
                   "concurrent-programming",
                   "cuda-programming",
@@ -206,10 +206,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T18:13:26Z",
-                "open_issues": 72,
+                "open_issues": 75,
                 "owner": "google",
                 "repo": "highway",
-                "stars": 5867,
+                "stars": 5868,
                 "topics": [
                   "avx",
                   "avx-512",
@@ -270,11 +270,11 @@
                 "id": 1218231004,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T13:09:29Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-20T10:54:12Z",
+                "open_issues": 76,
                 "owner": "NVlabs",
                 "repo": "cuda-oxide",
-                "stars": 3521,
+                "stars": 3527,
                 "topics": [
                   "async",
                   "compiler-backend",
@@ -305,7 +305,7 @@
                 "open_issues": 60,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3439,
+                "stars": 3438,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -332,7 +332,7 @@
                 "open_issues": 287,
                 "owner": "ispc",
                 "repo": "ispc",
-                "stars": 2955,
+                "stars": 2956,
                 "topics": [
                   "compiler",
                   "intel",
@@ -356,8 +356,8 @@
                 "id": 4455628,
                 "language": "C++",
                 "license": "BSL-1.0",
-                "last_commit": "2026-09-18T15:15:21Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-20T20:31:56Z",
+                "open_issues": 141,
                 "owner": "TheHPXProject",
                 "repo": "hpx",
                 "stars": 2892,
@@ -452,11 +452,11 @@
                 "id": 25379390,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T18:27:05Z",
-                "open_issues": 885,
+                "last_commit": "2026-09-20T05:57:33Z",
+                "open_issues": 888,
                 "owner": "openucx",
                 "repo": "ucx",
-                "stars": 1713,
+                "stars": 1715,
                 "topics": [
                   "aries",
                   "c",
@@ -663,7 +663,7 @@
                 "id": 349152473,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:06:07Z",
+                "last_commit": "2026-09-20T00:52:27Z",
                 "open_issues": 54,
                 "owner": "It4innovations",
                 "repo": "hyperqueue",
@@ -776,7 +776,7 @@
                 "open_issues": 234,
                 "owner": "alpaka-group",
                 "repo": "alpaka",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "cpp",
                   "cpp17",
@@ -1215,7 +1215,7 @@
                 "open_issues": 1,
                 "owner": "velda-io",
                 "repo": "velda",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "cloud-computing",
                   "cloud-management",
@@ -1243,7 +1243,7 @@
                 "open_issues": 1,
                 "owner": "hill",
                 "repo": "lazyslurm",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "cli",
                   "hpc",
@@ -1267,7 +1267,7 @@
                 "id": 728178901,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T14:05:37Z",
+                "last_commit": "2026-09-20T17:49:49Z",
                 "open_issues": 4,
                 "owner": "hpc-gridware",
                 "repo": "clusterscheduler",
@@ -1408,11 +1408,11 @@
                 "id": 15111821,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-19T19:05:26Z",
-                "open_issues": 3301,
+                "last_commit": "2026-09-20T15:49:10Z",
+                "open_issues": 3296,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76809,
+                "stars": 76822,
                 "topics": [
                   "alerting",
                   "analytics",
@@ -1824,7 +1824,7 @@
                 "id": 1147936892,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T14:02:10Z",
+                "last_commit": "2026-09-20T19:26:04Z",
                 "open_issues": 0,
                 "owner": "mskomek",
                 "repo": "hpc-client-gui",
@@ -1876,7 +1876,7 @@
                 "open_issues": 42,
                 "owner": "epasveer",
                 "repo": "seer",
-                "stars": 3439,
+                "stars": 3440,
                 "topics": [
                   "cpp",
                   "debug",
@@ -1924,7 +1924,7 @@
                 "open_issues": 98,
                 "owner": "sharkdp",
                 "repo": "hyperfine",
-                "stars": 28878,
+                "stars": 28882,
                 "topics": [
                   "benchmark",
                   "cli",
@@ -1952,7 +1952,7 @@
                 "open_issues": 153,
                 "owner": "plasma-umass",
                 "repo": "scalene",
-                "stars": 13510,
+                "stars": 13512,
                 "topics": [
                   "cpu",
                   "cpu-profiling",
@@ -1988,7 +1988,7 @@
                 "open_issues": 171,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10414,
+                "stars": 10417,
                 "topics": [
                   "benchmark"
                 ]
@@ -2041,7 +2041,7 @@
                 "open_issues": 80,
                 "owner": "KDAB",
                 "repo": "hotspot",
-                "stars": 5168,
+                "stars": 5169,
                 "topics": [
                   "cpp",
                   "cpu-profiling",
@@ -2072,7 +2072,7 @@
                 "open_issues": 53,
                 "owner": "koute",
                 "repo": "bytehound",
-                "stars": 4813,
+                "stars": 4812,
                 "topics": [
                   "memory-profiler",
                   "memory-profiling",
@@ -2094,11 +2094,11 @@
                 "id": 15836700,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-27T01:52:43Z",
+                "last_commit": "2026-09-20T10:27:14Z",
                 "open_issues": 275,
                 "owner": "phoronix-test-suite",
                 "repo": "phoronix-test-suite",
-                "stars": 3140,
+                "stars": 3141,
                 "topics": [
                   "benchmark",
                   "benchmarking",
@@ -2125,11 +2125,11 @@
                 "id": 36930672,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-19T12:43:01Z",
+                "last_commit": "2026-09-20T13:51:57Z",
                 "open_issues": 1,
                 "owner": "ColinIanKing",
                 "repo": "stress-ng",
-                "stars": 2775,
+                "stars": 2776,
                 "topics": [
                   "c",
                   "cpu",
@@ -2218,7 +2218,7 @@
                 "open_issues": 44,
                 "owner": "JonMagon",
                 "repo": "KDiskMark",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "benchmarking",
                   "cpp",
@@ -2292,7 +2292,7 @@
                 "open_issues": 8,
                 "owner": "ekondis",
                 "repo": "mixbench",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "benchmark",
                   "cuda",
@@ -2321,7 +2321,7 @@
                 "open_issues": 38,
                 "owner": "llnl",
                 "repo": "Caliper",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "annotation-apis",
                   "caliper",
@@ -2682,7 +2682,7 @@
                 "open_issues": 298,
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13375,
+                "stars": 13378,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2699,11 +2699,11 @@
                 "id": 13310527,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T23:43:16Z",
-                "open_issues": 367,
+                "last_commit": "2026-09-20T06:39:25Z",
+                "open_issues": 366,
                 "owner": "jemalloc",
                 "repo": "jemalloc",
-                "stars": 11173,
+                "stars": 11178,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -2720,8 +2720,8 @@
                 "id": 204009988,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T08:50:23Z",
-                "open_issues": 167,
+                "last_commit": "2026-09-20T15:34:18Z",
+                "open_issues": 158,
                 "owner": "google",
                 "repo": "tcmalloc",
                 "stars": 5356,
@@ -2848,7 +2848,7 @@
                 "open_issues": 13,
                 "owner": "dendibakh",
                 "repo": "perf-ninja",
-                "stars": 3857,
+                "stars": 3860,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:57.029Z"
@@ -3044,7 +3044,7 @@
                 "open_issues": 0,
                 "owner": "herumi",
                 "repo": "xbyak",
-                "stars": 2275,
+                "stars": 2274,
                 "topics": [
                   "assembler",
                   "jit",
@@ -3254,7 +3254,7 @@
             "open_issues": 1,
             "owner": "taskflow",
             "repo": "awesome-parallel-computing",
-            "stars": 808,
+            "stars": 807,
             "topics": [
               "distributed-computing",
               "distributed-systems",
@@ -3320,7 +3320,7 @@
             "open_issues": 19,
             "owner": "dstdev",
             "repo": "awesome-hpc",
-            "stars": 271,
+            "stars": 273,
             "topics": [
               "awesome",
               "awesome-list"
@@ -3430,7 +3430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:13:25.503Z",
+    "last_updated": "2026-09-20T21:08:38.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome high performance computing resources",
@@ -3442,7 +3442,7 @@
       "open_issues": 0,
       "owner": "trevor-vincent",
       "repo": "awesome-high-performance-computing",
-      "stars": 1324,
+      "stars": 1323,
       "topics": [
         "awesome",
         "awesome-list",
