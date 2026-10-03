@@ -17,11 +17,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:00:24Z",
+                "last_commit": "2026-10-03T01:02:16Z",
                 "open_issues": 1487,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43173,
+                "stars": 43175,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -56,7 +56,7 @@
                 "open_issues": 924,
                 "owner": "taichi-dev",
                 "repo": "taichi",
-                "stars": 28397,
+                "stars": 28399,
                 "topics": [
                   "computer-graphics",
                   "differentiable-programming",
@@ -209,7 +209,7 @@
                 "open_issues": 78,
                 "owner": "google",
                 "repo": "highway",
-                "stars": 5912,
+                "stars": 5913,
                 "topics": [
                   "avx",
                   "avx-512",
@@ -270,11 +270,11 @@
                 "id": 1218231004,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:43:20Z",
+                "last_commit": "2026-10-03T00:05:39Z",
                 "open_issues": 90,
                 "owner": "NVIDIA",
                 "repo": "cuda-rust",
-                "stars": 3646,
+                "stars": 3649,
                 "topics": [
                   "async",
                   "compiler-backend",
@@ -328,8 +328,8 @@
                 "id": 1931356,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T21:14:33Z",
-                "open_issues": 286,
+                "last_commit": "2026-10-03T04:14:03Z",
+                "open_issues": 287,
                 "owner": "ispc",
                 "repo": "ispc",
                 "stars": 2962,
@@ -452,8 +452,8 @@
                 "id": 25379390,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:55:48Z",
-                "open_issues": 890,
+                "last_commit": "2026-10-02T23:28:18Z",
+                "open_issues": 889,
                 "owner": "openucx",
                 "repo": "ucx",
                 "stars": 1718,
@@ -591,7 +591,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T17:45:20Z",
-                "open_issues": 310,
+                "open_issues": 311,
                 "owner": "StanfordLegion",
                 "repo": "legion",
                 "stars": 772,
@@ -663,7 +663,7 @@
                 "id": 349152473,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:50:51Z",
+                "last_commit": "2026-10-03T01:52:08Z",
                 "open_issues": 56,
                 "owner": "It4innovations",
                 "repo": "hyperqueue",
@@ -1408,11 +1408,11 @@
                 "id": 15111821,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T22:39:20Z",
-                "open_issues": 3317,
+                "last_commit": "2026-10-03T03:05:13Z",
+                "open_issues": 3309,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 77041,
+                "stars": 77045,
                 "topics": [
                   "alerting",
                   "analytics",
@@ -1988,7 +1988,7 @@
                 "open_issues": 174,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10446,
+                "stars": 10448,
                 "topics": [
                   "benchmark"
                 ]
@@ -2669,7 +2669,7 @@
             {
               "node_type": "item",
               "title": "mimalloc memory allocator",
-              "description": null,
+              "description": "microsoft/mimalloc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2678,8 +2678,8 @@
                 "id": 192805335,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:19:07Z",
-                "open_issues": 298,
+                "last_commit": "2026-10-03T02:45:26Z",
+                "open_issues": 293,
                 "owner": "microsoft",
                 "repo": "mimalloc",
                 "stars": 13424,
@@ -2690,7 +2690,7 @@
             {
               "node_type": "item",
               "title": "jemalloc memory allocator",
-              "description": null,
+              "description": "jemalloc/jemalloc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2699,8 +2699,8 @@
                 "id": 13310527,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:43:37Z",
-                "open_issues": 362,
+                "last_commit": "2026-10-03T04:06:31Z",
+                "open_issues": 361,
                 "owner": "jemalloc",
                 "repo": "jemalloc",
                 "stars": 11215,
@@ -2711,7 +2711,7 @@
             {
               "node_type": "item",
               "title": "tcmalloc memory allocator",
-              "description": null,
+              "description": "google/tcmalloc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2720,8 +2720,8 @@
                 "id": 204009988,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:35:47Z",
-                "open_issues": 167,
+                "last_commit": "2026-10-03T03:46:00Z",
+                "open_issues": 169,
                 "owner": "google",
                 "repo": "tcmalloc",
                 "stars": 5366,
@@ -2732,7 +2732,7 @@
             {
               "node_type": "item",
               "title": "Horde memory allocator",
-              "description": null,
+              "description": "emeryberger/Hoard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2770,7 +2770,7 @@
             {
               "node_type": "item",
               "title": "Apply M1/M2 AMX",
-              "description": null,
+              "description": "corsix/amx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2798,7 +2798,7 @@
             {
               "node_type": "item",
               "title": "Awesome Cloud HPC",
-              "description": null,
+              "description": "kjrstory/awesome-cloud-hpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2835,7 +2835,7 @@
             {
               "node_type": "item",
               "title": "Performance Ninja Optimization Course",
-              "description": null,
+              "description": "dendibakh/perf-ninja",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2856,7 +2856,7 @@
             {
               "node_type": "item",
               "title": "Vanderbilt - Intro to HPC",
-              "description": null,
+              "description": "vanderbiltscl/SC3260_HPC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2886,7 +2886,7 @@
                 {
                   "node_type": "item",
                   "title": "HPC toolset tutorial (cluster management)",
-                  "description": null,
+                  "description": "ubccr/hpc-toolset-tutorial",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2907,7 +2907,7 @@
                 {
                   "node_type": "item",
                   "title": "Mapping MPI ranks to multiple cuda GPU",
-                  "description": null,
+                  "description": "olcf-tutorials/local_mpi_to_gpu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2940,7 +2940,7 @@
             {
               "node_type": "item",
               "title": "Slurm for dummies guide",
-              "description": null,
+              "description": "SergioMEV/slurm-for-dummies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2961,7 +2961,7 @@
             {
               "node_type": "item",
               "title": "Magic Castle - Terraform modules to replicate HPC in cloud",
-              "description": null,
+              "description": "ComputeCanada/magic_castle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2970,7 +2970,7 @@
                 "id": 204500239,
                 "language": "HCL",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:28:53Z",
+                "last_commit": "2026-10-03T02:23:01Z",
                 "open_issues": 17,
                 "owner": "ComputeCanada",
                 "repo": "magic_castle",
@@ -2982,7 +2982,7 @@
             {
               "node_type": "item",
               "title": "FireHPC",
-              "description": null,
+              "description": "rackslab/FireHPC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3003,7 +3003,7 @@
             {
               "node_type": "item",
               "title": "Build a Beowulf cluster",
-              "description": null,
+              "description": "darshanmandge/Cluster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3031,7 +3031,7 @@
             {
               "node_type": "item",
               "title": "xbyak jit assembler",
-              "description": null,
+              "description": "herumi/xbyak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3040,8 +3040,8 @@
                 "id": 612895,
                 "language": "C",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T12:05:16Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T00:43:45Z",
+                "open_issues": 0,
                 "owner": "herumi",
                 "repo": "xbyak",
                 "stars": 2277,
@@ -3056,7 +3056,7 @@
             {
               "node_type": "item",
               "title": "cpufetch - pretty cpu info fetcher",
-              "description": null,
+              "description": "Dr-Noob/cpufetch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3087,7 +3087,7 @@
             {
               "node_type": "item",
               "title": "HPCInfo by Jeff Hammond",
-              "description": null,
+              "description": "jeffhammond/HPCInfo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3113,7 +3113,7 @@
             {
               "node_type": "item",
               "title": "Rust in HPC",
-              "description": null,
+              "description": "westernmagic/rust-in-hpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3139,7 +3139,7 @@
             {
               "node_type": "item",
               "title": "libsc - Supercomputing library",
-              "description": null,
+              "description": "cburstedde/libsc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3160,7 +3160,7 @@
             {
               "node_type": "item",
               "title": "Build a Beowulf cluster",
-              "description": null,
+              "description": "darshanmandge/Cluster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3181,7 +3181,7 @@
             {
               "node_type": "item",
               "title": "Top500 Supercomputer Data Analysis",
-              "description": null,
+              "description": "glennklockwood/top500-data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3209,7 +3209,7 @@
             {
               "node_type": "item",
               "title": "Deadlock empire - practice concurrency",
-              "description": null,
+              "description": "deadlockempire/deadlockempire.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3241,7 +3241,7 @@
         {
           "node_type": "item",
           "title": "Awesome Parallel Computing",
-          "description": null,
+          "description": "taskflow/awesome-parallel-computing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3269,7 +3269,7 @@
         {
           "node_type": "item",
           "title": "Fortran Codes On Github",
-          "description": null,
+          "description": "Beliavsky/Fortran-code-on-GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3307,7 +3307,7 @@
         {
           "node_type": "item",
           "title": "Awesome HPC",
-          "description": null,
+          "description": "dstdev/awesome-hpc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3331,7 +3331,7 @@
         {
           "node_type": "item",
           "title": "Fortran Tools",
-          "description": null,
+          "description": "Beliavsky/Fortran-Tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3373,7 +3373,7 @@
         {
           "node_type": "item",
           "title": "Parallel Computing Guide",
-          "description": null,
+          "description": "mikeroyal/Parallel-Computing-Guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3404,7 +3404,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cloud HPC",
-          "description": null,
+          "description": "kjrstory/awesome-cloud-hpc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3430,7 +3430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:45:54.548Z",
+    "last_updated": "2026-10-03T04:49:22.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome high performance computing resources",
