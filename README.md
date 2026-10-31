@@ -49,32 +49,32 @@ A curated list of awesome high performance computing resources.
 
 #### Popular HPC Programming Libraries/APIs/Tools/Standards/Simulators
 
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) ⭐ 43,277 | 🐛 1,586 | 🌐 Python | 📅 2026-10-30 - An easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed) ⭐ 43,278 | 🐛 1,592 | 🌐 Python | 📅 2026-10-31 - An easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference
 * [Taichi](https://github.com/taichi-dev/taichi) ⭐ 28,429 | 🐛 926 | 🌐 C++ | 📅 2026-10-05 - Parallel programming language for high-performance numerical computations in Python
-* [Codon](https://github.com/exaloop/codon) ⭐ 16,864 | 🐛 111 | 🌐 Python | 📅 2026-10-30 - high-performance Python compiler that compiles Python code to native machine code without any runtime overhead
-* [Zluda](https://github.com/vosen/ZLUDA) ⭐ 15,149 | 🐛 163 | 🌐 Rust | 📅 2026-10-26 - Run unmodified CUDA applications with near-native performance on Intel AMD GPUs.
+* [Codon](https://github.com/exaloop/codon) ⭐ 16,864 | 🐛 110 | 🌐 Python | 📅 2026-10-31 - high-performance Python compiler that compiles Python code to native machine code without any runtime overhead
+* [Zluda](https://github.com/vosen/ZLUDA) ⭐ 15,153 | 🐛 163 | 🌐 Rust | 📅 2026-10-26 - Run unmodified CUDA applications with near-native performance on Intel AMD GPUs.
 * [Horovod](https://github.com/horovod/horovod) ⚠️ Archived - Distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
 * [Taskflow](https://github.com/taskflow/taskflow) ⭐ 12,221 | 🐛 40 | 🌐 C++ | 📅 2026-10-15 - A Modern C++ Parallel Task Programming Library
-* [highway](https://github.com/google/highway) ⭐ 5,949 | 🐛 80 | 🌐 C++ | 📅 2026-10-30 - Performance portable SIMD intrinsics
-* [HIP](https://github.com/ROCm-Developer-Tools/HIP) ⭐ 4,421 | 🐛 43 | 🌐 C++ | 📅 2026-10-30 - HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU
-* [CUDA-oxide](https://github.com/NVlabs/cuda-oxide) ⭐ 3,907 | 🐛 233 | 🌐 Rust | 📅 2026-10-30 - custom rustc backend for compiling GPU kernels in pure Rust
-* [CAF](https://github.com/actor-framework/actor-framework) ⭐ 3,443 | 🐛 65 | 🌐 C++ | 📅 2026-10-30 - An Open Source Implementation of the Actor Model in C++
-* [Intel ISPC](https://github.com/ispc/ispc) ⭐ 2,987 | 🐛 280 | 🌐 C++ | 📅 2026-10-29 - SPMD compiler
-* [HPX](https://github.com/STEllAR-GROUP/hpx) ⭐ 2,938 | 🐛 189 | 🌐 C++ | 📅 2026-10-30 - A C++ Standard Library for Concurrency and Parallelism
-* [Kokkos](https://github.com/kokkos/kokkos) ⭐ 2,726 | 🐛 495 | 🌐 C++ | 📅 2026-10-30 - A C++ Programming Model for Writing Performance Portable Applications on HPC platforms
+* [highway](https://github.com/google/highway) ⭐ 5,950 | 🐛 78 | 🌐 C++ | 📅 2026-10-31 - Performance portable SIMD intrinsics
+* [HIP](https://github.com/ROCm-Developer-Tools/HIP) ⭐ 4,422 | 🐛 43 | 🌐 C++ | 📅 2026-10-30 - HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU
+* [CUDA-oxide](https://github.com/NVlabs/cuda-oxide) ⭐ 3,925 | 🐛 238 | 🌐 Rust | 📅 2026-10-31 - custom rustc backend for compiling GPU kernels in pure Rust
+* [CAF](https://github.com/actor-framework/actor-framework) ⭐ 3,443 | 🐛 66 | 🌐 C++ | 📅 2026-10-31 - An Open Source Implementation of the Actor Model in C++
+* [Intel ISPC](https://github.com/ispc/ispc) ⭐ 2,987 | 🐛 280 | 🌐 C++ | 📅 2026-10-31 - SPMD compiler
+* [HPX](https://github.com/STEllAR-GROUP/hpx) ⭐ 2,939 | 🐛 192 | 🌐 C++ | 📅 2026-10-31 - A C++ Standard Library for Concurrency and Parallelism
+* [Kokkos](https://github.com/kokkos/kokkos) ⭐ 2,730 | 🐛 497 | 🌐 C++ | 📅 2026-10-30 - A C++ Programming Model for Writing Performance Portable Applications on HPC platforms
 * [Kompute](https://github.com/KomputeProject/kompute) ⭐ 2,579 | 🐛 79 | 🌐 C++ | 📅 2026-08-15 - The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)
-* [UCX](https://github.com/openucx/ucx#using-ucx) ⭐ 1,736 | 🐛 913 | 🌐 C | 📅 2026-10-30 - Optimized production proven-communication framework
+* [UCX](https://github.com/openucx/ucx#using-ucx) ⭐ 1,736 | 🐛 914 | 🌐 C | 📅 2026-10-30 - Optimized production proven-communication framework
 * [Pyper](https://github.com/pyper-dev/pyper) ⭐ 1,516 | 🐛 5 | 🌐 Python | 📅 2025-02-04 - concurrent python made simple
 * [RaftLib](https://github.com/RaftLib/RaftLib) ⭐ 999 | 🐛 32 | 🌐 C++ | 📅 2024-01-02 - A C++ Library for Enabling Stream and Dataflow Parallel Computation
 * [Legate](https://github.com/nv-legate/legate.numpy) ⚠️ Archived - Nvidia replacement for numpy based on Legion
 * [Legion](https://github.com/StanfordLegion/legion) ⭐ 774 | 🐛 310 | 🌐 C++ | 📅 2026-10-04 - Distributed heterogeneous programming library
 * [Transwarp](https://github.com/bloomen/transwarp) ⭐ 632 | 🐛 3 | 🌐 C++ | 📅 2023-05-18 - A Header-only C++ Library for Task Concurrency
 * [RAJA](https://github.com/LLNL/RAJA) ⭐ 604 | 🐛 195 | 🌐 C++ | 📅 2026-10-23 - Architecture and programming model portability for HPC applications
-* [HyperQueue](https://github.com/It4innovations/hyperqueue) ⭐ 573 | 🐛 52 | 🌐 Rust | 📅 2026-10-30 - HyperQueue is a tool designed to simplify execution of large workflows (task graphs) on HPC clusters.
-* [mpi4jax](https://github.com/mpi4jax/mpi4jax) ⭐ 549 | 🐛 25 | 🌐 Python | 📅 2026-10-26 - Zero-copy mpi for jax arrays
+* [HyperQueue](https://github.com/It4innovations/hyperqueue) ⭐ 573 | 🐛 52 | 🌐 Rust | 📅 2026-10-31 - HyperQueue is a tool designed to simplify execution of large workflows (task graphs) on HPC clusters.
+* [mpi4jax](https://github.com/mpi4jax/mpi4jax) ⭐ 550 | 🐛 25 | 🌐 Python | 📅 2026-10-26 - Zero-copy mpi for jax arrays
 * [Kubeflow MPI Operator](https://github.com/kubeflow/mpi-operator) ⭐ 540 | 🐛 110 | 🌐 Go | 📅 2026-10-26 - MPI Operator for Kubeflow
 * [async-rdma](https://github.com/datenlord/async-rdma) ⭐ 440 | 🐛 22 | 🌐 Rust | 📅 2023-11-21 - A framework for writing RDMA applications with high-level abstraction and asynchronous APIs
-* [alpaka](https://github.com/alpaka-group/alpaka) ⭐ 432 | 🐛 230 | 🌐 C++ | 📅 2026-10-28 - The alpaka library is a header-only C++17 abstraction library for accelerator development
+* [alpaka](https://github.com/alpaka-group/alpaka) ⭐ 433 | 🐛 231 | 🌐 C++ | 📅 2026-10-28 - The alpaka library is a header-only C++17 abstraction library for accelerator development
 * [Galois](https://github.com/IntelligentSoftwareSystems/Galois) ⭐ 357 | 🐛 65 | 🌐 C++ | 📅 2024-05-16 - A C++ Library to Ease Parallel Programming with Irregular Parallelism
 * [FastFlow](https://github.com/fastflow/fastflow) ⭐ 317 | 🐛 30 | 🌐 C++ | 📅 2026-06-14 - High-performance Parallel Patterns in C++
 * [Dispenso](https://github.com/facebookincubator/dispenso) ⭐ 312 | 🐛 12 | 🌐 C++ | 📅 2026-10-30 - Meta/facebook C++ Task Library
@@ -143,11 +143,11 @@ A curated list of awesome high performance computing resources.
 #### Cluster Management/Tools/Schedulers/Stacks
 
 * [DeepOps](https://github.com/NVIDIA/deepops) ⭐ 1,483 | 🐛 8 | 🌐 Python | 📅 2026-10-30 - Nvidia's GPU infrastructure and automation tools for Kubernetes and Slurm clusters.
-* [Spinifex](https://github.com/mulgadc/spinifex) ⭐ 403 | 🐛 4 | 🌐 Go | 📅 2026-10-30 - Open-source, AWS-compatible private cloud for CPU and GPU clusters, with KVM instances, GPU passthrough, EBS, S3 and VPC on your own hardware.
+* [Spinifex](https://github.com/mulgadc/spinifex) ⭐ 404 | 🐛 3 | 🌐 Go | 📅 2026-10-31 - Open-source, AWS-compatible private cloud for CPU and GPU clusters, with KVM instances, GPU passthrough, EBS, S3 and VPC on your own hardware.
 * [Bluebanquise](https://github.com/bluebanquise/bluebanquise) ⭐ 165 | 🐛 43 | 🌐 Python | 📅 2026-10-30 - An open-source cluster management tool.
 * [lazyslurm](https://github.com/hill/lazyslurm) ⭐ 87 | 🐛 2 | 🌐 Rust | 📅 2026-08-09 - A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
 * [Velda](https://github.com/velda-io/velda) ⭐ 83 | 🐛 1 | 🌐 Go | 📅 2026-10-24 - A modern cluster management and job scheduler, with personalizable dev-containers and scale-to-cloud capabilities.
-* [Open Cluster Scheduler](https://github.com/hpc-gridware/clusterscheduler/) ⭐ 56 | 🐛 4 | 🌐 C++ | 📅 2026-10-30 - A scalable HPC/AI workload manager based on SGE.
+* [Open Cluster Scheduler](https://github.com/hpc-gridware/clusterscheduler/) ⭐ 56 | 🐛 4 | 🌐 C++ | 📅 2026-10-31 - A scalable HPC/AI workload manager based on SGE.
 * [Ruse](https://github.com/JanneM/Ruse) ⭐ 24 | 🐛 2 | 🌐 C | 📅 2026-04-14 - A tool for managing software environments in HPC clusters.
 * [slurm-why](https://github.com/ajinkyakadam/slurm-why) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-11 - Plain-English diagnoses for confusing Slurm job states (OOM kills, pending-reason codes, impossible requests) instead of decoding raw sacct/squeue/scontrol output by hand.
 * [MrPackMod](https://github.com/VictorEijkhout/MrPackMod) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-27 - TACC Alternative to Easybuild/Spack
@@ -196,15 +196,15 @@ A curated list of awesome high performance computing resources.
 
 #### Development/Workflow/Monitoring Tools for HPC
 
-* [Grafana](https://github.com/grafana/grafana) ⭐ 77,586 | 🐛 3,354 | 🌐 TypeScript | 📅 2026-10-30 - Open-source platform for monitoring and observability, visualizing metrics.
-* [Vaex](https://github.com/vaexio/vaex) ⭐ 8,517 | 🐛 557 | 🌐 Python | 📅 2026-10-29 - A Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.
+* [Grafana](https://github.com/grafana/grafana) ⭐ 77,606 | 🐛 3,362 | 🌐 TypeScript | 📅 2026-10-31 - Open-source platform for monitoring and observability, visualizing metrics.
+* [Vaex](https://github.com/vaexio/vaex) ⭐ 8,518 | 🐛 557 | 🌐 Python | 📅 2026-10-29 - A Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.
 * [genv](https://github.com/run-ai/genv) ⚠️ Archived - GPU Environment Management for managing and scheduling GPU resources.
 * [redun](https://github.com/insitro/redun) ⭐ 608 | 🐛 34 | 🌐 Python | 📅 2026-07-17 - Workflow engine that emphasizes simplicity, reliability, and scalability.
 * [slurm docker cluster](https://github.com/giovtorres/slurm-docker-cluster) ⭐ 556 | 🐛 2 | 🌐 Shell | 📅 2026-10-19 - A Slurm cluster implemented using Docker containers, for development and testing.
 * [ruptime](https://github.com/alexmyczko/ruptime) ⭐ 213 | 🐛 5 | 🌐 Shell | 📅 2026-10-23 - A utility for monitoring the status of computational jobs and systems.
 * [Stui slurm dashboard for the terminal](https://github.com/mil-ad/stui) ⭐ 104 | 🐛 18 | 🌐 Python | 📅 2026-02-15 - A terminal-based UI for managing and monitoring Slurm clusters.
 * [perun](https://github.com/Helmholtz-AI-Energy/perun) ⭐ 94 | 🐛 18 | 🌐 Python | 📅 2026-10-29 - Energy monitor for HPC systems, focusing on performance and energy efficiency.
-* [arbiter2](https://github.com/CHPC-UofU/arbiter2) ⭐ 85 | 🐛 6 | 🌐 Python | 📅 2026-10-26 - Monitors and protects interactive nodes with cgroups.
+* [arbiter2](https://github.com/CHPC-UofU/arbiter2) ⭐ 85 | 🐛 5 | 🌐 Python | 📅 2026-10-30 - Monitors and protects interactive nodes with cgroups.
 * [remora](https://github.com/TACC/remora) ⭐ 66 | 🐛 19 | 🌐 Shell | 📅 2026-10-09 - Tool for monitoring and reporting the performance of batch jobs on HPC systems.
 * [HPC Rocket](https://github.com/SvenMarcus/hpc-rocket) ⭐ 30 | 🐛 8 | 🌐 Python | 📅 2026-02-04 - Allows submitting Slurm jobs in Continuous Integration (CI) pipelines.
 * [srunx](https://github.com/ksterx/srunx) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-09-13 - Python toolkit for managing SLURM jobs and workflows. Provides a CLI (sbatch / squeue / scancel parity), a FastAPI Web UI, an MCP server for natural-language control from Claude, YAML workflows with parameter sweeps and inter-job dependencies, GPU resource monitoring, SSH-based remote execution with rsync project sync, and Slack notifications.
@@ -236,24 +236,24 @@ A curated list of awesome high performance computing resources.
 
 #### Performance/Benchmark Tools for HPC
 
-* [Hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,184 | 🐛 68 | 🌐 Rust | 📅 2026-10-12 - A command-line benchmarking tool that provides a simple and user-friendly means to compare the performance of commands, featuring statistical analysis across multiple runs.
-* [scalene](https://github.com/plasma-umass/scalene) ⭐ 13,537 | 🐛 154 | 🌐 Python | 📅 2026-10-26 - A high-performance, high-precision CPU, GPU, and memory profiler for Python.
-* [Google benchmark](https://github.com/google/benchmark) ⭐ 10,493 | 🐛 168 | 🌐 C++ | 📅 2026-10-30 - A microbenchmark support library for C++ that tracks performance over time.
-* [speedscope](https://github.com/jlfwong/speedscope) ⭐ 6,777 | 🐛 162 | 🌐 TypeScript | 📅 2026-05-15 - An interactive, web-based viewer for performance profiles of software. It supports various formats and provides a flamegraph visualization to identify hot paths efficiently.
-* [Hotspot](https://github.com/KDAB/hotspot/) ⭐ 5,195 | 🐛 81 | 🌐 C++ | 📅 2026-10-14 - The Linux perf GUI for in-depth performance analysis and visualization of software behavior.
+* [Hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,192 | 🐛 68 | 🌐 Rust | 📅 2026-10-12 - A command-line benchmarking tool that provides a simple and user-friendly means to compare the performance of commands, featuring statistical analysis across multiple runs.
+* [scalene](https://github.com/plasma-umass/scalene) ⭐ 13,539 | 🐛 155 | 🌐 Python | 📅 2026-10-31 - A high-performance, high-precision CPU, GPU, and memory profiler for Python.
+* [Google benchmark](https://github.com/google/benchmark) ⭐ 10,494 | 🐛 168 | 🌐 C++ | 📅 2026-10-30 - A microbenchmark support library for C++ that tracks performance over time.
+* [speedscope](https://github.com/jlfwong/speedscope) ⭐ 6,778 | 🐛 162 | 🌐 TypeScript | 📅 2026-05-15 - An interactive, web-based viewer for performance profiles of software. It supports various formats and provides a flamegraph visualization to identify hot paths efficiently.
+* [Hotspot](https://github.com/KDAB/hotspot/) ⭐ 5,196 | 🐛 81 | 🌐 C++ | 📅 2026-10-14 - The Linux perf GUI for in-depth performance analysis and visualization of software behavior.
 * [bytehound memory profiler](https://github.com/koute/bytehound) ⭐ 4,817 | 🐛 53 | 🌐 C | 📅 2023-07-28 - A detailed memory profiler for tracking down memory issues and leaks.
-* [Phoronix Test Suite](https://github.com/phoronix-test-suite/phoronix-test-suite) ⭐ 3,159 | 🐛 277 | 🌐 PHP | 📅 2026-09-20 - Benchmarking suite for Linux
+* [Phoronix Test Suite](https://github.com/phoronix-test-suite/phoronix-test-suite) ⭐ 3,161 | 🐛 277 | 🌐 PHP | 📅 2026-09-20 - Benchmarking suite for Linux
 * [ngstress](https://github.com/ColinIanKing/stress-ng) ⭐ 2,808 | 🐛 1 | 🌐 C | 📅 2026-10-29 - A versatile tool for stressing various subsystems of a computer to find hardware faults or to benchmark performance.
 * [pmu-tools (toplev)](https://github.com/andikleen/pmu-tools) ⭐ 2,257 | 🐛 195 | 🌐 Python | 📅 2026-07-24 - Performance monitoring tools for modern Intel CPUs, offering detailed insights into hardware and application performance.
 * [Palanteer Python/C++ Profiler](https://github.com/dfeneyrou/palanteer) ⭐ 2,215 | 🐛 5 | 🌐 C++ | 📅 2026-10-12 - Profiler for both Python and C++
 * [KDiskMark](https://github.com/JonMagon/KDiskMark) ⭐ 1,725 | 🐛 45 | 🌐 C++ | 📅 2026-08-22 - Benchmarking Tool For SSD/HDD Drives
-* [core-to-core-latency](https://github.com/nviennot/core-to-core-latency) ⭐ 1,368 | 🐛 122 | 🌐 Jupyter Notebook | 📅 2026-03-25 - A diagnostic tool designed to measure and report the latency between CPU cores, aiding in the optimization of parallel computing tasks.
-* [Ior](https://github.com/hpc/ior) ⭐ 490 | 🐛 48 | 🌐 C | 📅 2026-10-30 - A parallel file system I/O benchmarking tool used widely in HPC for testing storage systems.
+* [core-to-core-latency](https://github.com/nviennot/core-to-core-latency) ⭐ 1,369 | 🐛 122 | 🌐 Jupyter Notebook | 📅 2026-03-25 - A diagnostic tool designed to measure and report the latency between CPU cores, aiding in the optimization of parallel computing tasks.
+* [Ior](https://github.com/hpc/ior) ⭐ 491 | 🐛 48 | 🌐 C | 📅 2026-10-30 - A parallel file system I/O benchmarking tool used widely in HPC for testing storage systems.
 * [mixbench](https://github.com/ekondis/mixbench) ⭐ 466 | 🐛 8 | 🌐 C++ | 📅 2026-10-24 - A benchmark suite designed to evaluate CPUs and GPUs across different compute and memory operations.
 * [Caliper](https://github.com/LLNL/Caliper) ⭐ 421 | 🐛 38 | 🌐 C++ | 📅 2026-10-26 - A Performance Analysis Toolbox in a Library
 * [tinymembench](https://github.com/ssvb/tinymembench) ⭐ 419 | 🐛 21 | 🌐 C | 📅 2023-07-04 - A simple memory benchmark tool, focusing on benchmarking memory bandwidth and latency with minimal dependencies, suitable for various platforms.
 * [OpenCL Cross-Hardware PhysX Benchmarks](https://github.com/ProjectPhysX/OpenCL-Benchmark) ⭐ 335 | 🐛 11 | 🌐 C++ | 📅 2026-10-29 - Benchmark across all types of GPU, CPU
-* [flameox](https://github.com/morluto/flameox) ⭐ 228 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - Profiling and optimization toolkit for agents that captures and compares evidence from native services, PyTorch, GPU kernels, and inference workloads.
+* [flameox](https://github.com/morluto/flameox) ⭐ 229 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - Profiling and optimization toolkit for agents that captures and compares evidence from native services, PyTorch, GPU kernels, and inference workloads.
 * [kerncraft](https://github.com/RRZE-HPC/kerncraft) ⭐ 99 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-07-01 - A tool for analytical modeling of loop performance and cache behavior on HPC systems.
 * [The Bandwidth Benchmark](https://github.com/RRZE-HPC/TheBandwidthBenchmark/) ⭐ 66 | 🐛 2 | 🌐 C | 📅 2026-08-11 - A tool for measuring memory bandwidth across various CPUs and systems.
 * [JUPITER Benchmark Suite](https://github.com/FZJ-JSC/jubench) ⭐ 27 | 🐛 0 | 📅 2025-07-18 - The JUPITER Benchmark Suite incorporates 16 applications from various domains. It was designed for and used in the procurement of JUPITER, the first European exascale supercomputer.
@@ -314,10 +314,10 @@ A curated list of awesome high performance computing resources.
 
 #### Misc.
 
-* [mimalloc memory allocator](https://github.com/microsoft/mimalloc) ⭐ 13,520 | 🐛 250 | 🌐 C | 📅 2026-10-30
-* [jemalloc memory allocator](https://github.com/jemalloc/jemalloc) ⭐ 11,257 | 🐛 367 | 🌐 C | 📅 2026-10-29
-* [tcmalloc memory allocator](https://github.com/google/tcmalloc) ⭐ 5,396 | 🐛 162 | 🌐 C++ | 📅 2026-10-30
-* [Horde memory allocator](https://github.com/emeryberger/Hoard) ⭐ 1,255 | 🐛 2 | 🌐 C++ | 📅 2026-10-30
+* [mimalloc memory allocator](https://github.com/microsoft/mimalloc) ⭐ 13,523 | 🐛 248 | 🌐 C | 📅 2026-10-31
+* [jemalloc memory allocator](https://github.com/jemalloc/jemalloc) ⭐ 11,257 | 🐛 370 | 🌐 C | 📅 2026-10-29
+* [tcmalloc memory allocator](https://github.com/google/tcmalloc) ⭐ 5,396 | 🐛 170 | 🌐 C++ | 📅 2026-10-31
+* [Horde memory allocator](https://github.com/emeryberger/Hoard) ⭐ 1,256 | 🐛 1 | 🌐 C++ | 📅 2026-10-31
 * [Software utilization at UK National Supercomputing Service, ARCHER2](https://www.archer2.ac.uk/support-access/status.html#software-usage-data)
 * [SIMD Info](https://simd.info)
 
@@ -540,7 +540,7 @@ Continuously updated (no single publication year):
 
 #### Courses
 
-* [Performance Ninja Optimization Course](https://github.com/dendibakh/perf-ninja) ⭐ 3,908 | 🐛 13 | 🌐 C++ | 📅 2026-10-26
+* [Performance Ninja Optimization Course](https://github.com/dendibakh/perf-ninja) ⭐ 3,909 | 🐛 13 | 🌐 C++ | 📅 2026-10-26
 * [Vanderbilt - Intro to HPC](https://github.com/vanderbiltscl/SC3260_HPC) ⭐ 20 | 🐛 2 | 🌐 C | 📅 2020-05-05
 * [HPC Carpentry](https://www.hpc-carpentry.org/)
 * [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
@@ -976,7 +976,7 @@ Continuously updated (no single publication year):
 
 #### Games/Challenges
 
-* [Deadlock empire - practice concurrency](https://github.com/deadlockempire/deadlockempire.github.io) ⭐ 1,062 | 🐛 24 | 🌐 JavaScript | 📅 2025-05-09
+* [Deadlock empire - practice concurrency](https://github.com/deadlockempire/deadlockempire.github.io) ⭐ 1,063 | 🐛 24 | 🌐 JavaScript | 📅 2025-05-09
 * [Sad Server - practice linux server management](https://sadservers.com/scenarios)
 * [Vim Adventures](https://vim-adventures.com/)
 
@@ -998,4 +998,4 @@ This repo started from the great curated list <https://github.com/taskflow/aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
